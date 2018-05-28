@@ -1,7 +1,6 @@
 <?php
 // Heading
 $_['heading_title']    			= 'Skladnost z GDPR';
-
 // Text
 $_['text_extension']   			= 'Razširitve';
 $_['text_success']     			= 'Uspeh: spremenili ste Skladnost z GDPR!';
@@ -9,16 +8,13 @@ $_['text_edit']        			= 'Uredi modul';
 $_['text_module']      			= 'Moduli';
 $_['text_complete']    			= 'Dokončano';
 $_['text_error']       			= 'Napaka';
-
 // Entry
 $_['entry_status']     			= 'Status';
 $_['text_gdpr_status']			= 'Status razširitve';
 $_['text_gdpr_status_helper']   = 'Omogočite ali onemogočite razširitev';
-
 // Errors
 $_['error_permission'] 			= 'Opozorilo: nimate dovoljenja za spreminjanje modula!';
 $_['error_unexpected'] 			= 'Prišlo je do nepričakovane napake. Poskusite znova pozneje ali se obrnite na razvijalce modula z naslednjim ID-jem napake: ';
-
 // Licensing
 $_['text_your_license']         = 'Licenca';
 $_['text_please_enter_the_code']= 'Prosimo, vnesite kodo za nakup izdelka:';
@@ -39,7 +35,6 @@ $_['text_open_ticket_for_real'] = 'Odprite zahtevek za podporo';
 $_['text_pre_sale']             = 'Predprodaja';
 $_['text_pre_sale_text']        = 'Imate briljantno idejo za svojo spletno trgovino? Naša ekipa razvijalcev jo lahko uresniči.';
 $_['text_bump_the_sales']       = 'Pospešite prodajo';
-
 $_['tab_home']       			= 'Kontrolni seznam';
 $_['tab_controlpanel'] 			= 'Nastavitve';
 $_['tab_support']       		= 'Podpora';
@@ -47,10 +42,8 @@ $_['tab_requests']				= 'Zahtevki';
 $_['tab_acceptances']			= 'Sprejem pravilnika';
 $_['tab_personaldata']			= 'Tretja stranka';
 $_['tab_datasecurity']			= 'Varnost podatkov';
-
 $_['text_loading_data']		 	= 'Nalaganje podatkov, prosim počakajte...';
 $_['text_no_results']			= 'V trenutnem pogledu ni rezultatov.';
-
 $_['column_request_id']			= 'ID zahteve';
 $_['column_type']				= 'Tip';
 $_['column_email']				= 'Email';
@@ -63,36 +56,30 @@ $_['column_acceptance_id']		= 'ID potrditve';
 $_['column_name']				= 'Ime';
 $_['column_content']			= 'Besedilo';
 $_['column_actions']			= 'Dejanja';
-
 $_['text_date_start']			= 'Datum začetka';
 $_['text_date_end']				= 'Datum konca';
 $_['text_filter']				= 'Filter';
 $_['text_download']				= 'Prenesi';
 $_['text_view_current']			= 'Oglejte si trenutni pravilnik';
-
 $_['text_life_of_links']		= 'Potek GDPR zahtev';
 $_['text_access_to_personal_data_link'] = 'Dostop do osebnih podatkov';
 $_['text_access_to_personal_data_link_helper'] = 'Čas poteka (v urah) vsakega zahtevka za pridobitev osebnih podatkov. Če stranka v tem času ne potrdi, bo morala vložiti novo zahtevo.';
 $_['text_access_default_hours'] = 'Privzeta vrednost: 5 ur';
-
 $_['text_remove_personal_data_link'] = 'Odstranitev osebnih podatkov';
 $_['text_remove_personal_data_link_helper'] = 'Čas poteka (v urah) za brisanje / anonimiziranje osebnih podatkov stranke. Če stranka v tem času ne potrdi, bo morala vložiti novo zahtevo.';
 $_['text_delete_default_hours'] = 'Privzeta vrednost: 2 uri';
-
 $_['text_access_to_personal_data'] = 'Dostop do osebnih podatkov';
 $_['text_access_to_personal_data_helper'] = 'V spodnjih poljih morate navesti, katerim ponudnikom storitev pošiljate osebne podatke o strankah (npr. ime, elektronska pošta, id_stranke, IP, itd.).';
 $_['text_third_party_services'] = 'Storitve tretjih oseb';
 $_['text_third_party_services_helper'] = 'Tu navedite storitve, ki jih uporabljate za sledenje, analizo ali izboljšanje izkušenj vaših strank. Primer: Facebook Ads, Facebook Pixel, Google Analytics, Google AdWords, Google Retargeting, MailChimp itd.';
 $_['text_other_services'] = 'Druge storitve';
 $_['text_other_services_helper'] = 'Navedite storitve, ki niso javne ali to kar se uporablja izključno za vašo lastno rabo. Primer: Integracija z ERP, PIWIK, Matomo itd.';
-
 $_['text_general'] = 'Splošne nastavitve';
 $_['text_show_gdpr_menu_left'] = 'Prikaži povezavo do razširitve v glavnem meniju administracije';
 $_['text_show_gdpr_menu_left_helper'] = 'Omogočite to, če želite v glavnem meniju skrbnika videti povezavo do modula GDPR.';
 $_['text_enabled'] = 'Omogočeno';
 $_['text_disabled'] = 'Onemogočeno';
 $_['text_show_gdpr_menu_left_default'] = 'Privzeta vrednost: Onemogočeno';
-
 $_['tab_cookieconsent'] = 'Soglasje za piškotke';
 $_['text_cc_enable'] = 'Pokaži vrstico soglasja za piškotke';
 $_['text_cc_enable_helper'] = 'Izberite, ali želite omogočiti ali onemogočiti vrstico soglasja za piškotke.';
@@ -123,7 +110,6 @@ $_['text_cc_button_bg'] = 'Ozadje gumba';
 $_['text_cc_button_text'] = 'Besedilo gumba';
 $_['text_cc_palette'] = 'Barvna paleta';
 $_['text_cc_palette_styling'] = 'Izberite obliko vrstice soglasja s piškotki.';
-
 // Dashboard
 $_['text_steps_gdpr_compliant'] = 'Kontrolni seznam za GDPR';
 $_['text_install_the_extension'] = 'Namestite razširitev';
@@ -138,16 +124,13 @@ $_['text_update_pp'] = 'Posodobite svoj pravilnik o zasebnosti.';
 $_['text_update_pp_helper'] = 'To je nekaj, kar morate storiti ročno. Poskrbite, da posodobite svoj pravilnik o zasebnosti in dodajte, da je vaša trgovina skladna z zakonodajo o BDP.<br /><br />GDPR pravi, da morajo biti informacije, ki jih posredujete ljudem, o tem kako obdelujete njihove osebne podatke: <ul><li>jedrnate, pregledne, razumljive in lahko dostopne;</li><li>napisana v jasnem in preprostem jeziku, še posebej, če so naslovljena na otroka;</li><li>brezplačne.</li></ul>';
 $_['text_enable_cookie_consent_bar'] = 'Omogoči vrstico soglasja za piškotke (izbirno)';
 $_['text_enable_cookie_consent_bar_helper'] = 'Če nimate vrstice soglasja za piškotke, lahko poskusite našo. Je zelo prilagodljiva in ko nekdo klikne na gumb "Potrjujem", v naši podatkovni bazi dodamo zapis, da se je ta stranka strinjala z vašim pravilnikom o zasebnosti.<br /><br />V nastavitvah modula lahko omogočite našo vrstico soglasja iz zavihka »Soglasje s piškotki«.';
-
 $_['text_consent_bar_copyright'] = '* Vrstica za odobritev piškotka je bila ustvarjena z uporabo izvorne kode cookieconsent.insites.com, ki jo je prvotno razvila družba SilkTide Ltd.';
 $_['text_show_gdpr_footer'] = 'Prikaži povezavo do razširitve v nogi';
 $_['text_show_gdpr_footer_helper'] = 'Omogočite to, če želite videti povezavo do modula GDPR v nogi vaše trgovine. Upoštevajte, da če je vaša tema zelo spremenjena, se povezava morda ne bo prikazala in jo morate dodati ročno.';
-
 $_['text_data_security_breach'] = 'Kršitev varnosti podatkov';
 $_['text_notify_customers'] = 'Obvestilo o kršitvi varnosti podatkov';
 $_['text_data_security_breach_helper'] = 'S to možnostjo obvestite svoje stranke, ko pride do kršitve varnosti podatkov.';
 $_['text_data_security_breach_helper_additional'] = 'Kupce morate natančno informirati o tem, kdaj je prišlo do kršitve, kakšno je število prizadetih računov in kakšne ukrepe ste sprejeli po odkritju.';
-
 $_['text_gdpr_checklist_helper'] = 'Prosimo, uporabite naslednji osebni kontrolni seznam za GDPR, da označite vsak ukrep, ki ste ga zaključili. Kliknite, če želite potrditi vsako točko.';
 $_['text_gdpr_check_1'] = 'Razširitev za skladnosti z GDPR je omogočena';
 $_['text_gdpr_check_1_helper'] = 'To je prvi enostaven korak k BDPR skladnosti.';
@@ -173,7 +156,6 @@ $_['text_link'] = '[LINK]';
 $_['text_link_test'] = 'KLIKNITE ZA TEST';
 $_['text_link_view'] = 'KLIKNITE ZA OGLED';
 $_['text_link_add'] = 'KLIKNITE ZA DODAJANJE';
-
 // GDPR 1.2/2.2/3.2
 $_['text_cc_cookies_change'] = 'Spremeni besedilo gumba piškotkov';
 $_['text_cc_cookies_change_helper'] = 'Določite besedilo na gumbu, ki bo strankam omogočil, da omogočijo / onemogočijo piškotke.';
@@ -191,3 +173,11 @@ $_['text_cc_stop_nothing'] = 'Ne zgodi se nič';
 $_['text_cc_stop_marketing'] = 'Blokiraj piškotke za marketing';
 $_['text_cc_stop_analytics'] = 'Blokiraj piškotke za analitiko';
 $_['text_cc_stop_both'] = 'Blokiraj piškotke za marketing & analitiko';
+
+// GPD 1.3/2.3/3.3
+$_['text_gdpr_seo_link'] = 'SEO Link';
+$_['text_gdpr_seo_link_helper'] = 'To funkcijo uporabite za dodajanje uporabniku prijaznega URL-ja za stran GDPR orodje. Da bi to delovalo, morate omogočiti "<em>Uporaba SEO URL</em>" možnost v nastavitvah trgovine.<br /><br />Vnesite samo seo url, ki bo uporabljena kot nadomestek za izvirni URL.';
+$_['text_cc_cookie_button'] = 'Besedilo za prikaz vrstice';
+$_['text_cc_cookie_button_helper'] = 'Določite besedilo, na majhnem gumbu piškotkov, za prikaz celotne vrstice soglasja za piškotke.';
+$_['text_cc_always_show'] = 'Pokaži gumb, ki razkrije vrstico soglasja za piškotke';
+$_['text_cc_always_show_helper'] = 'Doda majhen gumb na vrhu ali na dnu strani (odvisno od položaja vrstice piškotka) ki ob kliku razkriva celotno vrstico. Stranke ga lahko uporabijo za spreminjanje nastavitev piškotkov.'; 
