@@ -104,3 +104,7 @@ $_['text_general_marketing_helper'] = 'Αυτά τα cookie συνήθως κα�
 
 // Συμμόρφωση GDPR 1.2.1/2.2.1/3.2.1
 $_['text_my_gdpr_tools_header'] = 'Τα GDPR Εργαλεία Μου';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'Έχω διαβάσει και συμφωνώ με τους <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'Πρέπει να συμφωνήσετε με τους %s για να συνεχίσετε.';
