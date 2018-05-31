@@ -90,3 +90,14 @@ $_['text_shipping_view_data'] = 'Informação de Envio';
 $_['text_order_view_data'] = 'Informação de Compra';
 $_['text_user_agent'] = 'Agente de Utilizador';
 $_['text_accept_language'] = 'Aceitar Idioma';
+
+// GDPR Compliance 1.2/2.2./3.2
+$_['text_cookie_settings_header'] = 'Escolha o tipo de Cookies que aceita utilizar';
+$_['text_btn_close'] = 'Fechar';
+$_['text_btn_save'] = 'Salvar Alterações';
+$_['text_general_cookies'] = 'Cookies Estritamente Necessários';
+$_['text_general_cookies_helper'] = 'Estes Cookies são necessários para a execução do site e não podem ser desativados. São definidos de acordo com as suas especificações como o idioma, a moeda, a sessão de login, preferências de privacidade. Pode configurar no seu navegador o bloqueio dos cookies, mas o site poderá deixar de funcionar corretamente.';
+$_['text_general_analytics'] = 'Cookies Analíticos';
+$_['text_general_analytics_helper'] = 'Estes Cookies permitem-nos medir o tráfego de visitantes assim como as fontes de tráfego, recolhendo informações em conjuntos de dados e ajudando-nos a entender quais os produtos e ações são mais populares.';
+$_['text_general_marketing'] = 'Cookies de Publicidade';
+$_['text_general_marketing_helper'] = 'Estes Cookies geralmente são definidos por parceiros de marketing e publicidade que os utilizam para criar perfis de interesse de acordo com o utilizador, e posteriormente, oferecer anúncios relevantes. Ao não permitir estes Cookies, não terá anúncios direcionados a si.';

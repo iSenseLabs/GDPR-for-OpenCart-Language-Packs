@@ -173,3 +173,21 @@ $_['text_link'] = '[LINK]';
 $_['text_link_test'] = 'CLIQUE PARA TESTAR';
 $_['text_link_view'] = 'CLIQUE PARA VISUALIZAR';
 $_['text_link_add'] = 'CLIQUE PARA ADICIONAR';
+
+// GDPR 1.2/2.2/3.2
+$_['text_cc_cookies_change'] = 'Alterar Texto do Botão dos Cookies';
+$_['text_cc_cookies_change_helper'] = 'Definir o texto do botão que dá ao cliente a opção de ativar/desativar cookies.';
+$_['text_cookie_management'] = 'Gestão de Cookies';
+$_['text_cc_customize'] = 'Personalizar';
+$_['text_ccc_functional'] = 'Cookies Estritamente Necessários';
+$_['text_ccc_functional_helper'] = 'Estes Cookies são necessários para a execução do site e não podem ser desativados. São definidos de acordo com as suas especificações como o idioma, a moeda, a sessão de login, preferências de privacidade. Pode configurar no seu navegador o bloqueio dos cookies, mas o site poderá deixar de funcionar corretamente.';
+$_['text_ccc_analytics'] = 'Cookies Analíticos';
+$_['text_ccc_analytics_helper'] = 'Estes Cookies permitem-nos medir o tráfego de visitantes assim como as fontes de tráfego, recolhendo informações em conjuntos de dados e ajudando-nos a entender quais os produtos e ações são mais populares.';
+$_['text_ccc_marketing'] = 'Cookies de Publicidade';
+$_['text_ccc_marketing_helper'] = 'Estes Cookies geralmente são definidos por parceiros de marketing e publicidade que os utilizam para criar perfis de interesse de acordo com o utilizador, e posteriormente, oferecer anúncios relevantes. Ao não permitir estes Cookies, não terá anúncios direcionados a si.';
+$_['text_cc_close_action'] = 'Ação quando o botão "Fechar" é clicado';
+$_['text_cc_close_action_helper'] = 'Escolha que ação deve ser tomada quando o cliente clica no botão "Fechar" na barra de consentimento de cookies.';
+$_['text_cc_stop_nothing'] = 'Nada';
+$_['text_cc_stop_marketing'] = 'Parar cookies de publicidade';
+$_['text_cc_stop_analytics'] = 'Parar cookies analíticos';
+$_['text_cc_stop_both'] = 'Parar cookies de publicidade e analíticos';
