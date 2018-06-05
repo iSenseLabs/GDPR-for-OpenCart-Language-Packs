@@ -4,18 +4,18 @@ $_['text_gdpr'] = 'Beheer al uw gegevens';
 
 $_['button_back'] = 'Terug';
 $_['button_continue'] = 'Ga door';
-$_['entry_email'] = 'Email adres';
+$_['entry_email'] = 'E-mail adres';
 $_['text_your_email'] = 'Uw e-mail adres';
 
 $_['text_data_rectification'] = 'Data beheer';
-$_['text_data_rectification_helper'] = 'Met onderstaande links kan alle data aanpassen die wij over u bezitten.<br />* Voor deze opties moet u ingelogd zijn of inloggen in uw account.';
+$_['text_data_rectification_helper'] = 'Met onderstaande links kunt u alle data aanpassen die wij over u bezitten.<br />* Voor deze opties moet u ingelogd zijn of inloggen in uw account.';
 $_['text_edit'] = 'Pas uw algemene accountgegevens aan';
 $_['text_password'] = 'Wijzig uw wachtwoord';
 $_['text_address'] = 'Wijzig uw adres';
 $_['text_newsletter'] = 'Schrijf in of uit bij onze nieuwsbrief';
 
 $_['text_data_portability'] = 'Data Overdraagbaarheid';
-$_['text_data_portability_helper'] = 'Via onderstaande links kan u alle data downloaden die wij over u bewaren voor een goede werking van onze webwinkel.<br />* Voor deze opties moet u ingelogd zijn of inloggen in uw account.';
+$_['text_data_portability_helper'] = 'Via onderstaande links kunt u alle data downloaden die wij over u bewaren voor een goede werking van onze webwinkel.<br />* Voor deze opties moet u ingelogd zijn of inloggen in uw account.';
 $_['text_personal_information'] = 'Persoonlijke informatie';
 $_['text_personal_addresses'] = 'Bewaarde adressen';
 $_['text_orders'] = 'Bestellingen';
@@ -60,7 +60,7 @@ $_['text_data_third_party_helper'] = 'In sommige gevallen delen wij uw gegevens 
 $_['text_third_party_services'] = 'Diensten';
 $_['text_other'] = 'Andere';
 
-$_['text_hash_error'] = 'There is no data to be shown. The link is invalid or it has expired. If you want to see the requested data, you have to make another GDPR request.';
+$_['text_hash_error'] = 'Er is geen data beschikbaar of de link is ongeldig. Doe een nieuwe aanvraag als u de gewenste data wil zien.';
 $_['text_no_data_third_party'] = 'Wij sturen geen persoonlijke gegevens naar third-party diensten.';
 $_['text_no_data'] = 'Er zijn geen gegevens voor deze klant.';
 
@@ -96,8 +96,15 @@ $_['text_cookie_settings_header'] = 'Kies welk type cookies u wenst te acceptere
 $_['text_btn_close'] = 'Sluiten';
 $_['text_btn_save'] = 'Bewaar';
 $_['text_general_cookies'] = 'Strikt noodzakelijke cookies';
-$_['text_general_cookies_helper'] = 'Deze cookies zijn nodig om onze webwinkel te laten werken en kunnen niet uitgeschakeld worden. Deze cookies worden enkel geplaatst bij door u genomen acties zoals het instellen van uw taal, valuta of inlogsessies of privacy instellingen. U kan uw browser instellen deze cookies te blokkeren, maar onze site kan dan mogelijk niet werken.';
-$_['text_general_analytics'] = 'Analytics and Statistieken';
-$_['text_general_analytics_helper'] = 'Deze cookies staan ons toe het bezoekersverkeer te meten verkeersbronnen te raadplegen door het verzamelen in data sets Ze helpen ons ook te begrijpen welke producten en acties populairder zijn dan andere.';
+$_['text_general_cookies_helper'] = 'Deze cookies zijn nodig om onze webwinkel correct te laten werken en kunnen niet uitgeschakeld worden. Deze cookies worden enkel geplaatst als u specifieke acties onderneemt, zoals het instellen van uw taal, valuta of bij inlogsessies of privacy instellingen. U kan uw browser instellen om deze cookies te blokkeren, maar onze site kan dan mogelijk niet werken.';
+$_['text_general_analytics'] = 'Analytische en statistische cookies';
+$_['text_general_analytics_helper'] = 'Deze cookies staan ons toe het bezoekersverkeer te meten en verkeersbronnen te raadplegen door het verzamelen in data sets. Ze helpen ons ook te begrijpen welke producten en acties populairder zijn dan andere.';
 $_['text_general_marketing'] = 'Marketing and Retargeting';
 $_['text_general_marketing_helper'] = 'Deze cookies zijn meestal ingesteld door onze marketing en adverteer partners. Ze kunnen gebruikt worden om een profiel van uw interesses op te bouwen en u later relevante advertenties te tonen. Als u deze cookies weigert zult u geen advertenties op uw maat of interesses te zien krijgen.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'Mijn GDPR/AVG Opties';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'Ik heb de <a href="%s" class="agree"><b>%s</b></a> gelezen en goedgekeurd.';
+$_['text_optin_error'] = 'U moet de %s aanvaarden om verder te kunnen!';
