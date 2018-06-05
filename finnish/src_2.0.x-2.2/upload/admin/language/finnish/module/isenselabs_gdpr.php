@@ -1,5 +1,5 @@
 <?php
-// Community translation
+// Community translation for version 1.4/2.4/3.4
 // If you spot any errors or have better translation, please contact niklas@kuldlelu.com for corrections. Thank you!
 
 // Heading
@@ -15,8 +15,8 @@ $_['text_error']       			= 'Virhe';
 
 // Entry
 $_['entry_status']     			= 'Tila';
-$_['text_gdpr_status']			= 'Liitännäisen Tila';
-$_['text_gdpr_status_helper']   = 'Ota liitännäinen käyttöön / pois käytöstä';
+$_['text_gdpr_status']			= 'Sovelluksen tila';
+$_['text_gdpr_status_helper']   = 'Ota sovellus käyttöön / poista käytöstä';
 
 // Errors
 $_['error_permission'] 			= 'Varoitus: Sinulla ei ole oikeuksia muokata osiota!';
@@ -35,10 +35,10 @@ $_['text_manage']               = 'hallitse';
 $_['text_get_support']          = 'Pyydä tukea';
 $_['text_community']            = 'Yhteisö';
 $_['text_ask_our_community']    = 'Meillä on iso yhteisö. Voit pyytää apua ongelmaasi myös keskustelupalstaltamme.';
-$_['text_browse_forums']        = 'Selaa keskustelupalstaa';
+$_['text_browse_forums']        = 'Keskustelupalstalle';
 $_['text_tickets']              = 'Tukipyynnöt';
 $_['text_open_a_ticket']        = 'Haluatko keskustella teknisen tukemme kanssa? Ole hyvä ja avaa tukipyyntö.';
-$_['text_open_ticket_for_real'] = 'Avaa tukipyyntö';
+$_['text_open_ticket_for_real'] = 'Tukipyyntö';
 $_['text_pre_sale']             = 'Myyntiä edeltävät';
 $_['text_pre_sale_text']        = 'Onko sinulla mahtava idea verkkokauppaasi? Meidän ohjelmistokehittäjät voivat tehdä sen todelliseksi.';
 $_['text_bump_the_sales']       = 'Lisää myyntiäsi';
@@ -90,14 +90,14 @@ $_['text_other_services'] = 'Muut palvelut';
 $_['text_other_services_helper'] = 'Ilmoita tässä yleisellä tasolla palvelut jotka eivät ole julkisia, tai mitä käytät sisäisiin tarkoituksiin. Esimerkiksi ERP (toiminnanohjaus) integraatio, PIWIK/Matomo, Tilitoimisto jne.';
 
 $_['text_general'] = 'Yleiset asetukset';
-$_['text_show_gdpr_menu_left'] = 'Näytä linkki liitännäiseen ylläpidon päävalikossa';
-$_['text_show_gdpr_menu_left_helper'] = 'Aktivoi tämä mikäli haluat nähdä linkin GDPR moduuliin ylläpidon päävalikossa.';
+$_['text_show_gdpr_menu_left'] = 'Näytä linkki sovellukseen ylläpidon päävalikossa';
+$_['text_show_gdpr_menu_left_helper'] = 'Aktivoi tämä mikäli haluat asentaa linkin GDPR sovellukseen ylläpidon päävalikossa.';
 $_['text_enabled'] = 'Päällä';
 $_['text_disabled'] = 'Pois päältä';
 $_['text_show_gdpr_menu_left_default'] = 'Oletusasetus: Pois päältä';
 
 $_['tab_cookieconsent'] = 'Evästeiden hyväksyntä';
-$_['text_cc_enable'] = 'Näytä eväste-palkki';
+$_['text_cc_enable'] = 'Näytä evästepalkki';
 $_['text_cc_enable_helper'] = 'Valitse asetus: Päällä / Pois päältä.';
 $_['text_cc_positioning'] = 'Sijainti';
 $_['text_cc_positioning_helper'] = 'Valitse evästepalkin sijainti.';
@@ -140,11 +140,11 @@ $_['text_respont_gdpr_requests_helper'] = 'Tämä sovellus hoitaa GDPR pyynnöt 
 $_['text_update_pp'] = 'Päivitä Yksityisyys-/Tietosuojaseloste';
 $_['text_update_pp_helper'] = 'Tämä sinun täytyy tehdä itse manuaalisesti. Varmista että tietosuojaselosteesi ja kauppasi ehdot ovat GDPR yhteensopivia sekä mainitse se myös selosteessa.<br /><br />GDPR asetus vaatii, että tapa jolla kerrot asiakkaille kuinka käsittelet heidän henkilötietojaan on: <ul><li>Ytimekäs, läpinäkyvä, ymmärrettävä ja helposti saatavila;</li><li>Kirjoitettu selvästi ja ymmärrettävällä kielellä, erityisesti jos suunnattu lapsille tai nuorille;</li><li>Ilmainen.</li></ul>';
 $_['text_enable_cookie_consent_bar'] = 'Lisää sivustolle Evästeiden hyväksyntä-palkki. (Valinnainen)';
-$_['text_enable_cookie_consent_bar_helper'] = 'Jos sinulla ei ole vielä Evästeiden hyväksyntä-palkkia, voit kokeilla meidän versiota. Se on muokattavissa ja kun asiakas painaa "Hyväksyn"-nappia, kirjaamme hyväksymisen sovelluksen lokeihin. Lokiin tallennetaan että kyseinen asiakas on esimerkiksi hyväksynyt Tietosuojaselosteen.<br /><br />Voit asettaa eväste-palkin aktiiviseksi tämän sovelluksen "Evästeiden Hyväksyntä" välilehdeltä.';
+$_['text_enable_cookie_consent_bar_helper'] = 'Jos sinulla ei ole vielä Evästeiden hyväksyntä-palkkia, voit kokeilla meidän versiota. Se on muokattavissa ja kun asiakas painaa "Hyväksyn"-nappia, kirjaamme hyväksymisen sovelluksen lokeihin. Lokiin tallennetaan että kyseinen asiakas on esimerkiksi hyväksynyt Tietosuojaselosteen.<br /><br />Voit asettaa evästepalkin aktiiviseksi tämän sovelluksen "Evästeiden Hyväksyntä" välilehdeltä.';
 
 $_['text_consent_bar_copyright'] = '* Evästepalkki luotiin käyttämällä lähdekoodia sivustolta cookieconsent.insites.com, jonka alunperin kehitti SilkTide Ltd.';
 $_['text_show_gdpr_footer'] = 'Näytä linkki sovellukseen sivustosi alalaidan linkeissä';
-$_['text_show_gdpr_footer_helper'] = 'Aktivoi tämä jos haluat nähdä linkin GDPR sovellukseen sivustosi alalaida linkeissä. Huomaa, että mikäli sivustosi teemaa on muokattu, voit ehkä joutua lisäämään linkin manuaalisesti.';
+$_['text_show_gdpr_footer_helper'] = 'Aktivoi tämä jos haluat asentaa linkin GDPR sovellukseen sivustosi alalaidan linkeissä. Huomaa, että mikäli sivustosi teemaa on muokattu, voit ehkä joutua lisäämään linkin manuaalisesti.';
 
 $_['text_data_security_breach'] = 'Tietosuojaloukkaukset';
 $_['text_notify_customers'] = 'Ilmoitus henkilötietojen tietoturvaloukkauksesta';
@@ -159,7 +159,7 @@ $_['text_gdpr_check_2_helper'] = 'Sovelluksessa on tämä toiminto. Voit ottaa s
 $_['text_gdpr_check_3'] = 'Kokeile GDPR määräystenmukaisuutta kaupan puolelta';
 $_['text_gdpr_check_3_helper'] = 'Lisäämme uuden osion kaupan puolelle. Kun tämä sovellus on aktivoituna, asiakkaasi ja vierailijat saavat pääsyn GDPR-työkaluihin. Ole hyvä ja testaa miltä GDPR sovellus näyttää kauppasi puolelta - [link] - ja että se näyttää hyvältä teemassasi. Lisäksi suosittelemme testaamaan käyttäjän ominaisuudessa kaikki toiminnot.';
 $_['text_gdpr_check_4'] = 'Päivitä Tietosuojaselosteesi jotta se on yhteensopiva GDPR:n vaatimusten kanssa.';
-$_['text_gdpr_check_4_helper'] = 'Me kirjaamme selosteiden ja ehtojen hyväksynnän. Sinun täytyy vain varmistua siitä, että selosteesi/ehtosi sisältävät GDPR:n vaatimat osiot. Löydät <strong>Tietosuojaseloste</strong> sivusi täältä page - [link]. Jos sinulla ei ole vielä kyseistä sivua, ole hyvä ja luo sellainen täältä - [link2]. Löydät hyviä esimerkkejä mitä tietosuojaselosteen tulee sisältää [linkstart]tästä blogikirjoituksesta[linkend].';
+$_['text_gdpr_check_4_helper'] = 'Me kirjaamme selosteiden ja ehtojen hyväksynnän. Sinun täytyy vain varmistua siitä, että selosteesi/ehtosi sisältävät GDPR:n vaatimat osiot. Löydät <strong>Tietosuojaseloste</strong> sivusi täältä - [link]. Jos sinulla ei ole vielä kyseistä sivua, ole hyvä ja luo sellainen täältä - [link2]. Löydät hyviä esimerkkejä mitä tietosuojaselosteen tulee sisältää [linkstart]tästä blogikirjoituksesta[linkend].';
 $_['text_gdpr_check_5'] = 'Päivitä Ehtosi (esim. toimitusehdot) sisältämään GDPR asetuksen vaatimat asiat.';
 $_['text_gdpr_check_5_helper'] = 'Me kirjaamme ehtojen hyväksynnän. Sinun täytyy vain varmistua siitä, että kauppasi ehdot sisältävät GDPR osion. Löydät kauppasi <strong>Ehdot</strong> sivun täältä - [link]. Jos sinulla ei ole vielä kyseistä sivua, ole hyvä ja luo sellainen täältä - [link2]. Löydät hyviä esimerkkejä mitä ehtojesi tulisi sisältää [linkstart]tästä blogikirjoituksesta[linkend].';
 $_['text_gdpr_check_6'] = 'Anna asiakkaillesi pääsy kauppasi tallentamiin henkilötietoihin';
@@ -176,3 +176,41 @@ $_['text_link'] = '[LINKKI]';
 $_['text_link_test'] = 'KLIKKAA TESTAAKSESI';
 $_['text_link_view'] = 'KLIKKAA TARKASTELLAKSESI';
 $_['text_link_add'] = 'KLIKKAA LISÄTÄKSESI';
+
+// GDPR 1.2/2.2/3.2
+$_['text_cc_cookies_change'] = 'Asetukset-napin teksti';
+$_['text_cc_cookies_change_helper'] = 'Anna teksti napille mitä painamalla käyttäjä pääsee muokkaamaan asetuksia.';
+$_['text_cookie_management'] = 'Evästeiden hallinta';
+$_['text_cc_customize'] = 'Mukauttaminen';
+$_['text_ccc_functional'] = 'Välttämättömät evästeet';
+$_['text_ccc_functional_helper'] = 'Nämä evästeet vaaditaan verkkosivustomme normaalin toiminnan takaamiseksi, eikä niitä voida kytkeä pois. Kyseiset evästeet asetetaan sinun toimiesi perusteella, kuten kieliasetus, valuutta-asetus, kirjautumistietojen ylläpito ja yksityisyysasetukset. Voit halutessasi estää nämäkin evästeet selaimesi asetuksista, mutta verkkosivustomme ei toimi sen jälkeen kuten on tarkoitettu.';
+$_['text_ccc_analytics'] = 'Sivustoa parantavat evästeet - Analytiikka ja tilastot';
+$_['text_ccc_analytics_helper'] = 'Nämä evästeet mahdollistavat meidän kerätä kävijätilastoja ja tietoa liikenteen lähteistä. Nämä evästeet myös auttavat meitä ymmärtämään mitkä tuotteet ja toiminnot ovat suositumpia kuin toiset.';
+$_['text_ccc_marketing'] = 'Sosiaalinen media ja mainonta - Kolmannen osapuolen evästeet';
+$_['text_ccc_marketing_helper'] = 'Näitä evästeitä käyttävät markkinointi- ja mainosyhteistyökumppanimme. He saattavat käyttää niitä rakentaakseensa profiilin sinun kiinnostuksista, ja myöhemmin näyttää niihin liittyviä mainoksia. Jos et hyväksy näitä evästeitä, et näe sinulle kohdistettuja mainoksia kiinnostuksiisi liittyen.';
+$_['text_cc_close_action'] = 'Suoritettava toiminto, kun "Sulje" nappia painetaan';
+$_['text_cc_close_action_helper'] = 'Mitä sivustosi tulisi tehdä kun "Sulje" nappia painetaan evästepalkista?';
+$_['text_cc_stop_nothing'] = 'Salli kaikki evästeet kunnes käyttäjä muuttaa asetuksia';
+$_['text_cc_stop_marketing'] = 'Estä markkinointivästeet kunnes käyttäjä sallii ne';
+$_['text_cc_stop_analytics'] = 'Estä analysointievästeet kunnes käyttäjä sallii ne';
+$_['text_cc_stop_both'] = 'Estä markkinointi- ja analysointievästeet kunnes käyttäjä sallii ne';
+
+// GDPR 1.3/2.3/3.3
+$_['text_gdpr_seo_link'] = 'SEO linkki';
+$_['text_gdpr_seo_link_helper'] = 'Käytä tätä toimintoa lisätäksesi SEO (hakukoneoptimoitu) linkki GDPR työkalut-sivullesi. Huom: "<em>Käytä SEO osoitteita</em>" asetus täytyy olla päällä toimiakseen.<br /><br />Anna lyhennne joka korvaa oletus URL-osoitteen.';
+$_['text_cc_cookie_button'] = 'Teksti "Paljasta Evästepalkki" napissa';
+$_['text_cc_cookie_button_helper'] = 'Anna teksti joka näytetään pienessä eväste napissa joka tuo esiin varsinaisen Evästepalkin.';
+$_['text_cc_always_show'] = 'Näytä nappi joka paljastaa evästepalkin';
+$_['text_cc_always_show_helper'] = 'Lisää pienen napin sivustosi ylä- tai alalaitaan (Evästepalkin sijaintivalintasi mukaan) josta painamalla paljastuu koko evästepalkki, mikäli käyttäjä haluaa muuttaa asetuksia myöhemmin.';
+
+// GDPR 1.4/2.4/3.4
+$_['text_gdpr_cc_styles'] = 'Kustomoi CSS tyylejä';
+$_['text_gdpr_cc_styles_helper'] = 'Voit kustomisoida evästepalkin tyylin sivustoosi paremmin sopivaksi.';
+$_['text_cc_default_action'] = 'Evästepalkin oletusasetukset';
+$_['text_cc_default_action_helper'] = 'Valitse evästepalkin oletusasetukset ja oletustila (kun käyttäjä on vasta saapunut sivustollesi eikä ole vielä muuttanut evästepalkin asetuksia).';
+$_['text_optins'] = 'Suostumusasetuket';
+$_['text_contact_form_optin_link'] = 'Lisää suostumuksen pyytäminen yhteydenottolomakkeelle';
+$_['text_contact_form_optin_link_helper'] = 'Käytä tätä toimintoa jos haluat asiakkaiden hyväksyvän sivustosi tietosuojaselosteen heidän käyttäessään yhteydenottolomaketta.';
+$_['tab_optins'] = 'Hyväksynnät/Hylkäämiset';
+$_['column_optin_id'] = 'Hyväksyntätunnus';
+$_['column_action'] = 'Toiminto';

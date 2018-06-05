@@ -1,5 +1,5 @@
 <?php
-// Community translation
+// Community translation for version 1.4/2.4/3.4
 // If you spot any errors or have better translation, please contact niklas@kuldlelu.com for corrections. Thank you!
 $_['text_account'] = 'Asiakastili';
 $_['text_gdpr'] = 'GDPR Työkalut';
@@ -92,3 +92,21 @@ $_['text_shipping_view_data'] = 'Toimitustiedot';
 $_['text_order_view_data'] = 'Tilauksen tiedot';
 $_['text_user_agent'] = 'Selaintiedot';
 $_['text_accept_language'] = 'Käytetty kieli';
+
+// GDPR Compliance 1.2/2.2./3.2
+$_['text_cookie_settings_header'] = 'Hallitse evästeasetuksia ja suostumuksia';
+$_['text_btn_close'] = 'Sulje';
+$_['text_btn_save'] = 'Tallenna Muutokset';
+$_['text_general_cookies'] = 'Välttämättömät evästeet';
+$_['text_general_cookies_helper'] = 'Nämä evästeet vaaditaan verkkosivustomme normaalin toiminnan takaamiseksi, eikä niitä voida kytkeä pois. Kyseiset evästeet asetetaan sinun toimiesi perusteella, kuten kieliasetus, valuutta-asetus, kirjautumistietojen ylläpito ja yksityisyysasetukset. Voit halutessasi estää nämäkin evästeet selaimesi asetuksista, mutta verkkosivustomme ei toimi sen jälkeen kuten on tarkoitettu.';
+$_['text_general_analytics'] = 'Sivustoa parantavat evästeet - Analytiikka ja tilastot';
+$_['text_general_analytics_helper'] = 'Nämä evästeet mahdollistavat meidän kerätä kävijätilastoja ja tietoa liikenteen lähteistä. Nämä evästeet myös auttavat meitä ymmärtämään mitkä tuotteet ja toiminnot ovat suositumpia kuin toiset.';
+$_['text_general_marketing'] = 'Sosiaalinen media ja mainonta - Kolmannen osapuolen evästeet';
+$_['text_general_marketing_helper'] = 'Näitä evästeitä käyttävät meidän markkinointi- ja mainosyhteistyökumppanit. He saattavat käyttää niitä rakentaakseensa profiilin sinun kiinnostuksista, ja myöhemmin näyttää niihin liittyviä mainoksia. Jos et hyväksy näitä evästeitä, et näe sinulle kohdistettuja mainoksia kiinnostuksiisi liittyen.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'Tietosuojatyökalut';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'Olen lukenut ja hyväksyn <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'Sinun täytyy hyväksyä %s jatkaaksesi.';
