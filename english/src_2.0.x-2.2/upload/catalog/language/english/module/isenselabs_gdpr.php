@@ -22,17 +22,17 @@ $_['text_orders'] = 'Orders';
 $_['text_gdpr_requests'] = 'GDPR requests';
 
 $_['text_access_to_personal_data'] = 'Access to Personal Data';
-$_['text_access_to_personal_data_helper'] = 'You can use the link below to request a report which will contain all personal that that we store for you.';
-$_['text_personal_data_helper'] = 'Use the form below to request a report which will contain all personal that that we store for you.';
+$_['text_access_to_personal_data_helper'] = 'You can use the link below to request a report with all personal information that that we store for you.';
+$_['text_personal_data_helper'] = 'Use the form below to request a report with all personal information that we store for you.';
 $_['text_request_a_report'] = 'Request a report';
 $_['text_enter_your_email'] = 'Enter your email';
-$_['text_enter_your_email_data_request_helper'] = 'You will receive an email with a link, which upon clicking will show you all information that we store for you. The link will be active for %s% hours.';
-$_['text_how_this_works_data_request'] = 'How this works?';
+$_['text_enter_your_email_data_request_helper'] = 'You will receive an email with a link that will lead you to all the information we store for you. The link will be active for %s% hours.';
+$_['text_how_this_works_data_request'] = 'How does this work?';
 $_['text_successful_request'] = 'Success!';
-$_['text_successful_data_request_helper'] = 'Thank you for your submission! If the email address is correct and it is present in the database, you will receive an email with a link. Using the link will help you see all personal data that we have for you. Keep in mind that the link will be active for %s% hours.';
+$_['text_successful_data_request_helper'] = 'Thank you for your submission! If the email address is correct and it is present in the database, you will receive an email with a link. Click the link to see all personal data that we store for you. Keep in mind that the link will be active for %s% hours.';
 
 $_['text_personal_data_subject'] = 'Check this to see your personal data';
-$_['text_greeting'] = 'Hello there! You requested to see your personal data in our store. Click on the link below in order to check that:';
+$_['text_greeting'] = 'Hello there! You requested to see your personal data in our store. Click on the link below:';
 $_['text_button_view_data'] = 'View Your Personal Data';
 $_['text_actions'] = 'Actions';
 $_['text_active_link_helper'] = '* Keep in mind that the link will be active for %s% hours.';
@@ -56,11 +56,11 @@ $_['text_postcode'] = 'Post Code';
 $_['text_zone'] = 'Zone';
 $_['text_address'] = 'Address';
 $_['text_data_third_party'] = 'Data Sent to Third-Party Services';
-$_['text_data_third_party_helper'] = 'Sometimes we may send a part from your personal information to the services below. This is in order to ensure that you have the best experience possible on our store.';
+$_['text_data_third_party_helper'] = 'Sometimes we may send a part of your personal information to the services below. This is to ensure that you have the best possible experience on our website.';
 $_['text_third_party_services'] = 'Services';
 $_['text_other'] = 'Other';
 
-$_['text_hash_error'] = 'There is no data to be shown. The link is invalid or it has expired. If you want to see the requested data, you have to make another GDPR request.';
+$_['text_hash_error'] = 'There is no data to be shown. The link is invalid or expired. If you want to see the requested data, you have to make a new request.';
 $_['text_no_data_third_party'] = 'We are not sending your personal data to third-party services.';
 $_['text_no_data'] = 'There is no data for this customer!';
 
@@ -68,7 +68,7 @@ $_['text_right_to_be_forgotten'] = 'Right to be Forgotten';
 $_['text_right_to_be_forgotten_helper'] = 'Use this option if you want to remove your personal and other data from our store. Keep in mind that <strong>this process will delete your account, so you will no longer be able to access or use it anymore</strong>.';
 $_['text_request_personal_data_deletion'] = 'Request personal data deletion';
 $_['text_enter_your_email_data_deletion_helper'] = 'You will receive an email with a link, which upon clicking will delete all data that we store for you. If something cannot be deleted, it will be anonymized. The link will be active for %s% hours.';
-$_['text_successful_data_deletion_helper'] = 'Thank you for your submission! If the email address is correct and it is present in the database, you will receive an email with a link. Using the link will delete all personal data that we have for you. Keep in mind that the link will be active for %s% hours.';
+$_['text_successful_data_deletion_helper'] = 'Thank you for your submission! If the email address is correct and it is present in the database, you will receive an email with a link. Using the link will delete all personal data that we store for you. Keep in mind that the link will be active for %s% hours.';
 
 $_['text_delete_data_subject'] = 'Personal data deletion request';
 $_['text_button_delete_data'] = 'Delete My Personal Data';
@@ -101,3 +101,10 @@ $_['text_general_analytics'] = 'Analytics and Statistics';
 $_['text_general_analytics_helper'] = 'These cookies allow us to measure visitors traffic and see traffic sources by collecting information in data sets. They also help us understand which products and actions are more popular than others.';
 $_['text_general_marketing'] = 'Marketing and Retargeting';
 $_['text_general_marketing_helper'] = 'These cookies are usually set by our marketing and advertising partners. They may be used by them to build a profile of your interest and later show you relevant ads. If you do not allow these cookies you will not experience targeted ads for your interests.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'My GDPR Tools';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'You must agree to the %s in order to continue.';
