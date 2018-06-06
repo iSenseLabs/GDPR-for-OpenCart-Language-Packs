@@ -211,3 +211,13 @@ $_['text_contact_form_optin_link_helper'] = 'oristite ovu značajku ako želite 
 $_['tab_optins'] = 'Opt-in/Opt-out';
 $_['column_optin_id'] = 'Opt-in ID';
 $_['column_action'] = 'Akcija';
+
+
+// GDPR 1.4.1/2.4.1/3.4.1
+$_['text_contact_form_newsletter_link'] = 'Omogući newsletter prijavu/odjavu ';
+$_['text_contact_form_newsletter_link_helper'] = 'Koristite ovu opciju kako bi pratili prijave i dojave sa  Vašeg newslettera.';
+$_['text_filter_optin'] = 'Prijava';
+$_['text_filter_optout'] = 'Odjava';
+$_['text_filter_acceptance'] = 'Prihvaćanje';
+$_['text_filter_custom'] = 'Prilagođeno';
+$_['text_filter_all'] = 'sve';
