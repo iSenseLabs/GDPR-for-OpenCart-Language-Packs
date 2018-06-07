@@ -214,3 +214,12 @@ $_['text_contact_form_optin_link_helper'] = 'Käytä tätä toimintoa jos haluat
 $_['tab_optins'] = 'Hyväksynnät/Hylkäämiset';
 $_['column_optin_id'] = 'Hyväksyntätunnus';
 $_['column_action'] = 'Toiminto';
+
+// GDPR 1.4.1/2.4.1/3.4.1
+$_['text_contact_form_newsletter_link'] = 'Uutiskirjeen hyväksynnät';
+$_['text_contact_form_newsletter_link_helper'] = 'Tämän toiminnon avulla voit seurata suostumuksia uutiskirjeen tilauksiin sekä tilauksien peruutuksiin';
+$_['text_filter_optin'] = 'Hyväksyntä';
+$_['text_filter_optout'] = 'Kieltäytyminen';
+$_['text_filter_acceptance'] = 'Suostumus';
+$_['text_filter_custom'] = 'Mukautettu';
+$_['text_filter_all'] = 'Kaikki';
