@@ -211,3 +211,12 @@ $_['text_contact_form_optin_link_helper'] = 'Naudokite šią funkciją, jeigu no
 $_['tab_optins'] = 'Sutikimas/Atsisakymas';
 $_['column_optin_id'] = 'Sutikimo ID';
 $_['column_action'] = 'Veiksmas';
+
+// GDPR 1.4.1/2.4.1/3.4.1
+$_['text_contact_form_newsletter_link'] = 'Įjungti naujienlaiškio prenumeratos formos sutikimo sekimą';
+$_['text_contact_form_newsletter_link_helper'] = 'Naudokite šią funkciją jeigu norite sekti ir fiksuoti savo klientų naujienlaiškio prenumeratos pasirinkimą.';
+$_['text_filter_optin'] = 'Sutikimas (Opt-In)';
+$_['text_filter_optout'] = 'Atsisakymas (Opt-Out)';
+$_['text_filter_acceptance'] = 'Sutikimas';
+$_['text_filter_custom'] = 'Asmeninis (Custom)';
+$_['text_filter_all'] = 'Visi';
