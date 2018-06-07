@@ -211,3 +211,12 @@ $_['text_contact_form_optin_link_helper'] = 'Gebruik deze optie als u wil dat uw
 $_['tab_optins'] = 'Opt-in/Opt-out';
 $_['column_optin_id'] = 'Opt-in ID';
 $_['column_action'] = 'Actie';
+
+// GDPR 1.4.1/2.4.1/3.4.1
+$_['text_contact_form_newsletter_link'] = 'Inschakelen inschrijven voor nieuwsbrief';
+$_['text_contact_form_newsletter_link_helper'] = 'Gebruik deze functie als u de inschrijvingen en uitschrijvingen voor uw nieuwsbrief wil bijhouden.';
+$_['text_filter_optin'] = 'Inschrijven';
+$_['text_filter_optout'] = 'Uitschrijven';
+$_['text_filter_acceptance'] = 'Aanvaarding';
+$_['text_filter_custom'] = 'Aangepast';
+$_['text_filter_all'] = 'Alle';
