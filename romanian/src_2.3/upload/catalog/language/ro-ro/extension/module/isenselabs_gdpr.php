@@ -80,3 +80,32 @@ $_['text_confirm_the_action'] = 'Este necesara confirmarea clientului';
 $_['text_confirm_the_action_helper'] = '<strong>ACTIUNEA ESTE IREVERSIBILA!</strong> Daca vei confirma actiunea, contul tau va fi sters si autentificarea nu va mai fi posibila. Nu va mai fi posibila accesarea istoricului comenzilor, adreselor, etc. Te rugam sa iei decizia mai jos:';
 $_['text_button_confirm_deletion'] = 'DA, sterge toate datele mele personale';
 $_['text_button_cancel_deletion'] = 'NU, lasati datele personale intacte';
+
+
+// GDPR Compliance 1.1/2.1./3.1
+$_['text_order'] = 'Order';
+$_['text_personal_data'] = 'Guest Personal Data';
+$_['text_personal_data_helper'] = 'If the customer is not registered, there still may be some data for this particular email in our database. You will see here information that we were able to pull from the orders table.';
+$_['text_payment_view_data'] = 'Payment Information';
+$_['text_shipping_view_data'] = 'Shipping Information';
+$_['text_order_view_data'] = 'Order Information';
+$_['text_user_agent'] = 'User Agent';
+$_['text_accept_language'] = 'Accept Language';
+
+// GDPR Compliance 1.2/2.2./3.2
+$_['text_cookie_settings_header'] = 'Choose Type of Cookies You Accept Using';
+$_['text_btn_close'] = 'Close';
+$_['text_btn_save'] = 'Save Changes';
+$_['text_general_cookies'] = 'Strictly Required Cookies';
+$_['text_general_cookies_helper'] = 'These cookies are required for the website to run and cannot be switched off. Such cookie are only set in response to actions made by you such as language, currency, login session, privacy preferences. You can set your browser to block these cookies but our site may not work then.';
+$_['text_general_analytics'] = 'Analytics and Statistics';
+$_['text_general_analytics_helper'] = 'These cookies allow us to measure visitors traffic and see traffic sources by collecting information in data sets. They also help us understand which products and actions are more popular than others.';
+$_['text_general_marketing'] = 'Marketing and Retargeting';
+$_['text_general_marketing_helper'] = 'These cookies are usually set by our marketing and advertising partners. They may be used by them to build a profile of your interest and later show you relevant ads. If you do not allow these cookies you will not experience targeted ads for your interests.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'My GDPR Tools';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'You must agree to the %s in order to continue.';
