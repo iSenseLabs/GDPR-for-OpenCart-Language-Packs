@@ -1,6 +1,6 @@
 <?php
 $_['text_account'] = 'Paskyra';
-$_['text_gdpr'] = 'BDAR tvrakymas';
+$_['text_gdpr'] = 'BDAR tvarkymas';
 
 $_['button_back'] = 'Grįžti';
 $_['button_continue'] = 'Tęsti';
