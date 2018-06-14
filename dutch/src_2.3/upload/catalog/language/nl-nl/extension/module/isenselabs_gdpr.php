@@ -26,7 +26,7 @@ $_['text_access_to_personal_data_helper'] = 'Via onderstaande link kan u een rap
 $_['text_personal_data_helper'] = 'Gebruik het onderstaande formulier om het rapport op te vragen dat alle data bevat die wij van u bewaren.';
 $_['text_request_a_report'] = 'Rapport aanvragen';
 $_['text_enter_your_email'] = 'Vul uw e-mail adres in';
-$_['text_enter_your_email_data_request_helper'] = 'U zal een e-mail ontvangen met een link. Als u op de link klikt zal u een overzicht krijgen van al uw gegevens die wij over u bewaren.Deze link zal %s% uren actief blijven.';
+$_['text_enter_your_email_data_request_helper'] = 'U zal een e-mail ontvangen met een link. Als u op de link klikt zal u een overzicht krijgen van alle gegevens die wij over u bewaren. Deze link zal %s% uren actief blijven.';
 $_['text_how_this_works_data_request'] = 'Hoe werkt dit?';
 $_['text_successful_request'] = 'Succesvol!';
 $_['text_successful_data_request_helper'] = 'Dank voor uw aanvraag! Als het e-mail adres correct is, en het is aanwezig in onze databank, dan zult u een e-mail ontvangen met een link. Het aanklikken van die link, zal u helpen om alle persoonlijke gegevens die we over u bezitten te bekijken. Hou er rekening mee dat omwille van uw privacy, deze link na %s% uur zal vervallen.';
@@ -65,14 +65,16 @@ $_['text_no_data_third_party'] = 'Wij sturen geen persoonlijke gegevens naar thi
 $_['text_no_data'] = 'Er zijn geen gegevens voor deze klant.';
 
 $_['text_right_to_be_forgotten'] = 'Recht om vergeten te worden.';
-$_['text_right_to_be_forgotten_helper'] = 'Gebruik deze optie als u al uw persoonlijke gegevens van onze webwinkel wil verwijderen. Hou er rekening meer dat <strong>dat dit proces ook uw account zal verwijderen. U kan bijgevolg niet meer inloggen in uw account of de gegevens en bestellingen raadplegen</strong>.';
+$_['text_right_to_be_forgotten_helper'] = 'Gebruik deze optie als u al uw persoonlijke gegevens van onze webwinkel wil verwijderen. Hou er rekening mee dat <strong>dit proces ook uw account zal verwijderen. U kan bijgevolg niet meer inloggen in uw account of de gegevens en bestellingen raadplegen</strong>.';
 $_['text_request_personal_data_deletion'] = 'Aanvraag tot verwijderen account en persoonlijke gegevens';
-$_['text_enter_your_email_data_deletion_helper'] = 'U zal een e-mail ontvangen met een link. Bij het aanklikken van de link wordt al uw persoonlijke data verwijderd. Als iets niet kan verwijderd worden, dan zal de data geanonimiseerd worden. Deze link blijft geldig voor %s% uur.';
-$_['text_successful_data_deletion_helper'] = 'Dank voor uw aanvraag! Als uw mailadres correct is en zich in onze databank bevindt, zal u een e-mail ontvangen met een link. Bij het aanklikken van de link wordt al uw persoonlijke data verwijderd. Hou er rekening mee dat deze link slechts geldig is voor %s% uur.';
+$_['text_enter_your_email_data_deletion_helper'] = 'U zal een e-mail ontvangen met een link. Bij het aanklikken van deze link, wordt de aanvraag om uw persoonlijke gegevens te verwijderen aan de winkeleigenaar(s) doorgegeven. Als iets niet kan verwijderd worden, dan zal de data ofwel geanonimiseerd worden of krijgt u een reden voor deze beslissing van de eigenaar(s). Deze link blijft geldig voor %s% uur.';
+$_['text_successful_data_deletion_helper'] = 'Dank voor uw aanvraag! Als uw mailadres correct is en zich in onze databank bevindt, zal u een e-mail ontvangen met een link. Bij het aanklikken van de link wordt uw aanvraag naar de winkeleigenaar(s) gestuurd. Uw aanvraag wordt dan zo snel mogelijk in behandeling genomen. Hou er rekening mee dat deze link slechts geldig is voor %s% uur.';
+
 
 $_['text_delete_data_subject'] = 'Aanvraag verwijdering persoonlijke gegevens';
 $_['text_button_delete_data'] = 'Verwijder mijn persoonlijke gegevens';
-$_['text_greeting_delete'] = 'Beste klant! U deed een aanvraag om al uw persoonlijke gegevens te verwijderen van onze webwinkel. Hou er rekening mee dat dit proces ook uw account verwijderd en u deze later niet meer kunt raadplegen of heractiveren. U kan wel altijd een nieuwe account registreren.<br /><br />Als u deze aanvraag niet hebt gedaan, negeer dan deze e-mail. Indien u de aanvraag wel deed, klik dan op onderstaande link om door te gaan:';
+$_['text_greeting_delete'] = 'Beste klant! U deed een aanvraag om al uw persoonlijke gegevens te verwijderen van onze webwinkel. Hou er rekening mee dat dit proces ook uw account zal verwijderen en u deze later niet meer kunt raadplegen of heractiveren. U kan wel altijd een nieuwe account aanmaken.<br /><br />Als u deze aanvraag niet hebt gedaan, negeer dan deze e-mail. Indien u de aanvraag wel deed, klik dan op onderstaande link om door te gaan:';
+
 
 $_['text_personal_data_deletion'] = 'Verwijdering van persoonlijke gegevens';
 $_['text_hash_error_delete'] = 'Deze actie kan niet doorgaan. De link is ongeldig of reeds vervallen. Als u deze actie wil vervolledigen, maak dan een nieuwe aanvraag.';
@@ -108,3 +110,10 @@ $_['text_my_gdpr_tools_header'] = 'Mijn GDPR/AVG Opties';
 // GDPR Compliance 1.4/2.4/3.4
 $_['text_optin_checkbox'] = 'Ik heb de <a href="%s" class="agree"><b>%s</b></a> gelezen en goedgekeurd.';
 $_['text_optin_error'] = 'U moet de %s aanvaarden om verder te kunnen!';
+
+// GDPR Compliance 1.5/2.5/3.5
+$_['successful_deletion_request'] = 'Aanvraag succesvol!';
+$_['successful_deletion_request_helper'] = 'Uw aanvraag is naar de winkeleigenaar(s) gestuurd. We beslissen zo snel mogelijk om deze aanvraag te aanvaarden of te verwerpen. Dit zijn de mogelijke uitkomsten:<br /><br />- Als uw aanvraag aanvaard wordt, dan zal u een bericht krijgen met welke acties ondernomen worden om al uw gegevens van onze winkel te verwijderen.<br />- Als uw aanvraag wordt afgekeurd, zal u een e-mail ontvangen met de redenen voor deze beslissing.';
+$_['text_right_to_be_forgotten_request'] = 'Aanvragen - Recht om vergeten te worden';
+$_['text_greeting_rtb'] = 'De klant %s% wil dat zijn/haar data verwijderd wordt van uw winkel. Open het admin panel van uw winkel om de aanvraag te aanvaarden of te verwerpen.';
+$_['successful_deletion_request_helper_automatically'] = 'Uw aanvraag is naar de winkeleigenaar(s) gestuurd en is automatisch goedgekeurd. Al uw gegevens zijn nu verwijderd van onze webwinkel.<br /><br />We vinden het jammer om u te zien gaan :(';
