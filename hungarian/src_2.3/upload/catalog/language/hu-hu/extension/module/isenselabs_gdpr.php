@@ -108,3 +108,10 @@ $_['text_my_gdpr_tools_header'] = 'GDPR eszköztáram';
 // GDPR Compliance 1.4/2.4/3.4
 $_['text_optin_checkbox'] = 'Elolvastam és elfogadom a(z) <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_optin_error'] = 'El kell fogadni a(z) %s !';
+
+// GDPR Compliance 1.5/2.5/3.5
+$_['successful_deletion_request'] = 'Sikeres kérés!';
+$_['successful_deletion_request_helper'] = 'Kérését elküldtük az oldal üzemeltetőjéhez, akik elbírálják azt. <br /><br />- Amennyiben kérése jóváhagyásra kerül, értesítjük milyen lépést kell végrehajtania a fiók törléséhez.<br />- Amennyiben kérése elutasításra kerül, az e-mailben elolvashatja ennek okát.';
+$_['text_right_to_be_forgotten_request'] = 'Személyes adatok törléséhez való jog';
+$_['text_greeting_rtb'] = '%s% nevű felhasználó kéri adatainak törlését. Nyissa meg az áruház Admin oldalát és dolgozza fel a kérését minél előbb.';
+$_['successful_deletion_request_helper_automatically'] = 'Kérését elküldtük az oldal üzemeltetőjéhez és automatikusan jóváhagyásra került. Minden adatát töröltük az adatbázisunkból.<br /><br />Sajnáljuk, hogy elhagyott minket. :(';
