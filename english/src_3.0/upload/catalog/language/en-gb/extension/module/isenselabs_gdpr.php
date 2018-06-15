@@ -115,3 +115,7 @@ $_['successful_deletion_request_helper'] = 'Your request was sent to the store o
 $_['text_right_to_be_forgotten_request'] = 'Right to be Forgotten Request';
 $_['text_greeting_rtb'] = 'The customer %s% wants to have his/hers data removed from your store. Open your store\'s admin panel to honor or deny the request.';
 $_['successful_deletion_request_helper_automatically'] = 'Your request was sent to the store owners and it was automatically approved. All your data is now removed from the store.<br /><br />We are sorry to see you go :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Subscribed';
+$_['text_unsubscribed'] = 'Unsubscribed';
