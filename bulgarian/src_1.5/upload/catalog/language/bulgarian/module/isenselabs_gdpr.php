@@ -119,4 +119,4 @@ $_['successful_deletion_request_helper_automatically'] = 'Заявката Ви 
 
 // GDPR Compliance 1.5.1/2.5.1/3.5.1
 $_['text_subscribed'] = 'Записан';
-$_['text_unsubscribed'] = 'Отписване';
+$_['text_unsubscribed'] = 'Отписан';
