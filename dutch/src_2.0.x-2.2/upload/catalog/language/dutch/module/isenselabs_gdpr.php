@@ -117,3 +117,7 @@ $_['successful_deletion_request_helper'] = 'Uw aanvraag is naar de winkeleigenaa
 $_['text_right_to_be_forgotten_request'] = 'Aanvragen - Recht om vergeten te worden';
 $_['text_greeting_rtb'] = 'De klant %s% wil dat zijn/haar data verwijderd wordt van uw winkel. Open het admin panel van uw winkel om de aanvraag te aanvaarden of te verwerpen.';
 $_['successful_deletion_request_helper_automatically'] = 'Uw aanvraag is naar de winkeleigenaar(s) gestuurd en is automatisch goedgekeurd. Al uw gegevens zijn nu verwijderd van onze webwinkel.<br /><br />We vinden het jammer om u te zien gaan :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Geabonneerd';
+$_['text_unsubscribed'] = 'Uitgeschreven';
