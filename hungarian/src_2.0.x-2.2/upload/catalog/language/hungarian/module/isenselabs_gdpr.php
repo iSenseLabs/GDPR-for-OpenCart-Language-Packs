@@ -115,3 +115,7 @@ $_['successful_deletion_request_helper'] = 'Kérését elküldtük az oldal üze
 $_['text_right_to_be_forgotten_request'] = 'Személyes adatok törléséhez való jog';
 $_['text_greeting_rtb'] = '%s% nevű felhasználó kéri adatainak törlését. Nyissa meg az áruház Admin oldalát és dolgozza fel a kérését minél előbb.';
 $_['successful_deletion_request_helper_automatically'] = 'Kérését elküldtük az oldal üzemeltetőjéhez és automatikusan jóváhagyásra került. Minden adatát töröltük az adatbázisunkból.<br /><br />Sajnáljuk, hogy elhagyott minket. :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Jegyzett';
+$_['text_unsubscribed'] = 'Leiratkozott';
