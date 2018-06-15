@@ -115,3 +115,7 @@ $_['successful_deletion_request_helper'] = 'Votre demande a été envoyée aux p
 $_['text_right_to_be_forgotten_request'] = 'Demande de "Droit d\'être oublié';
 $_['text_greeting_rtb'] = 'Le client veut que ses données soient supprimées de votre boutique en ligne. Ouvrez le panneau d\'administration de votre boutique pour honorer ou refuser la demande.';
 $_['successful_deletion_request_helper_automatically'] = 'Votre demande a été envoyée aux propriétaires du magasin et elle a été automatiquement approuvée. Toutes vos données sont maintenant retirées du magasin.<br /><br />Nous sommes désolés de vous voir partir :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Abonné';
+$_['text_unsubscribed'] = 'Désabonné';
