@@ -83,29 +83,29 @@ $_['text_button_cancel_deletion'] = 'NU, lasati datele personale intacte';
 
 
 // GDPR Compliance 1.1/2.1./3.1
-$_['text_order'] = 'Order';
-$_['text_personal_data'] = 'Guest Personal Data';
-$_['text_personal_data_helper'] = 'If the customer is not registered, there still may be some data for this particular email in our database. You will see here information that we were able to pull from the orders table.';
-$_['text_payment_view_data'] = 'Payment Information';
-$_['text_shipping_view_data'] = 'Shipping Information';
-$_['text_order_view_data'] = 'Order Information';
+$_['text_order'] = 'Comenzi';
+$_['text_personal_data'] = 'Date personale musafir';
+$_['text_personal_data_helper'] = 'Daca clientul nu este inregistrat pot exista date pentur aceasta adresa de mail in baza noastra de date.If the customer is not registered, there still may be some data for this particular email in our database. Veti vedea aici ce informatii am putut prelua.';
+$_['text_payment_view_data'] = 'Informatii plata';
+$_['text_shipping_view_data'] = 'Informatii livrare';
+$_['text_order_view_data'] = 'Informatii comanda';
 $_['text_user_agent'] = 'User Agent';
-$_['text_accept_language'] = 'Accept Language';
+$_['text_accept_language'] = 'Accept limba';
 
 // GDPR Compliance 1.2/2.2./3.2
-$_['text_cookie_settings_header'] = 'Choose Type of Cookies You Accept Using';
-$_['text_btn_close'] = 'Close';
-$_['text_btn_save'] = 'Save Changes';
-$_['text_general_cookies'] = 'Strictly Required Cookies';
-$_['text_general_cookies_helper'] = 'These cookies are required for the website to run and cannot be switched off. Such cookie are only set in response to actions made by you such as language, currency, login session, privacy preferences. You can set your browser to block these cookies but our site may not work then.';
-$_['text_general_analytics'] = 'Analytics and Statistics';
-$_['text_general_analytics_helper'] = 'These cookies allow us to measure visitors traffic and see traffic sources by collecting information in data sets. They also help us understand which products and actions are more popular than others.';
-$_['text_general_marketing'] = 'Marketing and Retargeting';
-$_['text_general_marketing_helper'] = 'These cookies are usually set by our marketing and advertising partners. They may be used by them to build a profile of your interest and later show you relevant ads. If you do not allow these cookies you will not experience targeted ads for your interests.';
+$_['text_cookie_settings_header'] = 'Alege ce tip de cookie accepti';
+$_['text_btn_close'] = 'Inchide';
+$_['text_btn_save'] = 'Salveaza modificari';
+$_['text_general_cookies'] = 'Cookie-uri absolut necesare';
+$_['text_general_cookies_helper'] = 'Aceste cookie-uri(moneda, limba, sesiunea de autentificare, preferintele de confidentialitate) sunt absolut necesare pentru ca website-ul sa functioneze normal si nu pot fi oprite. .Puteti seta ca browser-ul sa blocheze aceste cookie-uri insa website-ul nu va mai functiona corect.';
+$_['text_general_analytics'] = 'Analiza si statistici';
+$_['text_general_analytics_helper'] = 'Aceste cookie-uri ne permit sa masuram traficul vizitatorilor si sa vedem sursele de trafic prin colectarea de informatii in seturi de date. De asemenea, ne ajuta sa intelegem ce produse si actiuni sunt mai populare decat altele.';
+$_['text_general_marketing'] = 'Marketing si Retargeting';
+$_['text_general_marketing_helper'] = 'TAceste cookie-uri sunt de obicei stabilite de partenerii nostri de marketing si de publicitate. Acestia pot fi utilizati pentru a va crea un profil de interes si pentru a va afisa ulterior anunturi relevante. Dacă nu permiteti acest cookie, nu veti avea anunturi directionate pentru interesele dvs.';
 
 // GDPR Compliance 1.2.1/2.2.1/3.2.1
-$_['text_my_gdpr_tools_header'] = 'My GDPR Tools';
+$_['text_my_gdpr_tools_header'] = 'Unelte mele GDPR';
 
 // GDPR Compliance 1.4/2.4/3.4
-$_['text_optin_checkbox'] = 'I have read and agree to the <a href="%s" class="agree"><b>%s</b></a>';
-$_['text_optin_error'] = 'You must agree to the %s in order to continue.';
+$_['text_optin_checkbox'] = 'Am citit si sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'Trebuie sa fiti de acord cu %s pentru a continua.';
