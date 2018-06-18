@@ -119,5 +119,5 @@ $_['text_greeting_rtb'] = 'De klant %s% wil dat zijn/haar data verwijderd wordt 
 $_['successful_deletion_request_helper_automatically'] = 'Uw aanvraag is naar de winkeleigenaar(s) gestuurd en is automatisch goedgekeurd. Al uw gegevens zijn nu verwijderd van onze webwinkel.<br /><br />We vinden het jammer om u te zien gaan :(';
 
 // GDPR Compliance 1.5.1/2.5.1/3.5.1
-$_['text_subscribed'] = 'Geabonneerd';
+$_['text_subscribed'] = 'Ingeschreven';
 $_['text_unsubscribed'] = 'Uitgeschreven';
