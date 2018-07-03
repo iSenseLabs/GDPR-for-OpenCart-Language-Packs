@@ -285,3 +285,8 @@ $_['text_manually'] = 'Manueel';
 $_['text_successful_removal'] = 'Succes! De klant is met succes verwijderd/geanonimiseerd van uw webwinkel. Wacht tot de pagina herladen is...';
 $_['text_deletion_request_complete_subject'] = '"Recht om vergeten te worden" is afgehandeld';
 $_['text_deletion_success_message'] = 'Met dit bericht informeren wij u dat uw "Recht om vergeten te worden" aanvraag is afgehandeld.';
+
+// GDPR 1.6/2.6/3.6
+$_['text_btn_export'] = 'Exporteer';
+$_['text_column_customer_id'] = 'Klant ID';
+$_['text_column_policy_id'] = 'Policy ID';
