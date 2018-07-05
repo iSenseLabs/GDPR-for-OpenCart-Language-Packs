@@ -290,3 +290,6 @@ $_['text_deletion_success_message'] = 'This message is to inform you that your "
 $_['text_btn_export'] = 'Export';
 $_['text_column_customer_id'] = 'Customer ID';
 $_['text_column_policy_id'] = 'Policy ID';
+
+// GDPR 1.7/2.7/3.7
+$_['text_stores'] = 'Stores';
