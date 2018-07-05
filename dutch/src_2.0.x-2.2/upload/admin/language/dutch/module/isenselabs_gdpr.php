@@ -290,3 +290,6 @@ $_['text_deletion_success_message'] = 'Met dit bericht informeren wij u dat uw "
 $_['text_btn_export'] = 'Exporteer';
 $_['text_column_customer_id'] = 'Klant ID';
 $_['text_column_policy_id'] = 'Policy ID';
+
+// GDPR 1.7/2.7/3.7
+$_['text_stores'] = 'Winkels';
