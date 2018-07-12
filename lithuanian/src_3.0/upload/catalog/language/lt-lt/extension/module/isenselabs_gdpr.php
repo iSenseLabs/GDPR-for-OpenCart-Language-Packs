@@ -1,6 +1,6 @@
 <?php
 $_['text_account'] = 'Paskyra';
-$_['text_gdpr'] = 'BDAR tvrakymas';
+$_['text_gdpr'] = 'BDAR tvarkymas';
 
 $_['button_back'] = 'Grįžti';
 $_['button_continue'] = 'Tęsti';
@@ -8,11 +8,11 @@ $_['entry_email'] = 'El. pašto adresas';
 $_['text_your_email'] = 'Jūsų el. pašto adresas';
 
 $_['text_data_rectification'] = 'Duomenų taisymas';
-$_['text_data_rectification_helper'] = 'Jūs galite pasinaudoti žemiau esančiomis nuorodomis, kad atnaujinti savo paskyros duomenims, jeigu jie yra netikslūs.';
+$_['text_data_rectification_helper'] = 'Jūs galite pasinaudoti žemiau esančiomis nuorodomis, kad atnaujintumėte savo paskyros duomenis, jeigu jie yra netikslūs.';
 $_['text_edit'] = 'Redaguoti savo paskyros informaciją';
 $_['text_password'] = 'Keisti slaptažodį';
 $_['text_address'] = 'Redaguoti adresų knygelės įrašus';
-$_['text_newsletter'] = 'Užsisakyti / atsisakyti naujienlaiškio';
+$_['text_newsletter'] = 'Užsisakyti / atsisakyti naujienlaiškį';
 
 $_['text_data_portability'] = 'Duomenų perkėlimas';
 $_['text_data_portability_helper'] = 'Jūs galite pasinaudoti žemiau esančiomis nuorodomis, kad galėtumėte atsisiųsti visus duomenis apie save, kuriuos mes saugome savo parduotuvėje.';
@@ -22,7 +22,7 @@ $_['text_orders'] = 'Užsakymai';
 $_['text_gdpr_requests'] = 'BDAR prašymai';
 
 $_['text_access_to_personal_data'] = 'Prieiga prie asmeninių duomenų';
-$_['text_access_to_personal_data_helper'] = 'Jūs galite pasinaudoti žemiau esančia nuoroda, kad pateikti užklausą ataskaitai gauti, apie savo visus asmeninius duomenis, kuriuos mes saugome savo parduotuve.';
+$_['text_access_to_personal_data_helper'] = 'Jūs galite pasinaudoti žemiau esančia nuoroda, tam, kad pateiktumėte užklausą ataskaitai gauti apie savo visus asmeninius duomenis, kuriuos mes saugome savo parduotuvėje.';
 $_['text_personal_data_helper'] = 'Naudokite šią formą pateikti prašymui ataskaitai gauti apie visą jūsų asmeninę informaciją, kurią mes saugome savo parduotuvėje.';
 $_['text_request_a_report'] = 'Prašyti ataskaitos';
 $_['text_enter_your_email'] = 'Įveskite el.pašto adresą';
@@ -65,7 +65,7 @@ $_['text_no_data_third_party'] = 'Mes nesiunčiame jūsų asmeninių duomenų tr
 $_['text_no_data'] = 'Neturime duomenų apie šį klientą!';
 
 $_['text_right_to_be_forgotten'] = 'Teisė būti užmirštam';
-$_['text_right_to_be_forgotten_helper'] = 'Naudokite šią opciją jeigu norite ištrinti visus savo asmeninius ir kitus duomenis iš mūsų parduotuvės. Turėkite omenyje, kad strong>šis veiksmas visiškai panaikins jūsų paskyrą ir visus duomenis apie jus, todėl ateityje nebeturėsite galimybės naudotis paskyra ir matyti savo istorinių duomenų.</strong>.';
+$_['text_right_to_be_forgotten_helper'] = 'Naudokite šią opciją jeigu norite ištrinti visus savo asmeninius ir kitus duomenis iš mūsų parduotuvės. Turėkite omenyje, kad <strong>šis veiksmas visiškai panaikins jūsų paskyrą ir visus duomenis apie jus, todėl ateityje nebeturėsite galimybės naudotis paskyra ir matyti savo užsakymų istorijos.</strong>.';
 $_['text_request_personal_data_deletion'] = 'Prašyti asmeninių duomenų panaikinimo';
 $_['text_enter_your_email_data_deletion_helper'] = 'Jūs gausite el. laišką su nuoroda, kurią paspaudus mes ištrinsime visus jūsų duomenis saugomus pas mus. Jeigu kai kurie duomenis negali būti ištrinti, jie bus nuasmeninti. Nuoroda bus aktyvi %s% valandas.';
 $_['text_successful_data_deletion_helper'] = 'Ačiū už jūsų prašymą! Jeigu el.pašto adresas teisingas ir jis yra mūsų duomenų bazėje, jūs gausite el. laišką su nuoroda. Paspaudus nuorodą bus ištrinti visi jūsų asmeniniai duomenys. Turėkite omenyje, kad nuoroda bus aktyvi %s% valandas.';
@@ -76,8 +76,8 @@ $_['text_greeting_delete'] = 'Sveiki! Jūs paprašėte ištrinti savo asmeninius
 
 $_['text_personal_data_deletion'] = 'Asmeninių duomenų panaikinimas';
 $_['text_hash_error_delete'] = 'Veiksmas negali būti pabaigtas. Nuoroda neteisinga arba pasibaigė nuorodos galiojimo laikas. Jeigu norite panaikinti savo asmeninius duomenis, prašome pateikti prašymą iš naujo.';
-$_['text_confirm_the_action'] = 'Reikalingas kliento patvirtinimas';
-$_['text_confirm_the_action_helper'] = '<strong>Šis veiksmas yra negrįžtamas!</strong> Jei patvirtinsite veiksmą, mūsų tinklalapyje esanti paskyra bus ištrinta ir jūs negalėsite prisijungti prie jos. Jūs taip pat neturėsite prieigos prie savo užsakymų, adresų ir tt Prašome priimti savo sprendimą žemiau:';
+$_['text_confirm_the_action'] = 'Reikalingas jūsų patvirtinimas';
+$_['text_confirm_the_action_helper'] = '<strong>Šis veiksmas yra negrįžtamas!</strong> Jei patvirtinsite veiksmą, mūsų tinklalapyje esanti paskyra bus ištrinta ir jūs negalėsite prisijungti prie jos. Jūs taip pat neturėsite prieigos prie savo užsakymų, adresų ir t.t. Prašome priimti savo sprendimą žemiau:';
 $_['text_button_confirm_deletion'] = 'Taip, ištrinkite visus mano duomenis';
 $_['text_button_cancel_deletion'] = 'Ne, palikti mano duomenis';
 
@@ -108,3 +108,14 @@ $_['text_my_gdpr_tools_header'] = 'Mano BDAR įrankiai';
 // GDPR Compliance 1.4/2.4/3.4
 $_['text_optin_checkbox'] = 'Aš perskaičiau ir sutinku su "<a href="%s" class="agree"><b>%s</b></a>"';
 $_['text_optin_error'] = 'Norėdami tęsti, turite sutikti su "%s".';
+
+// GDPR Compliance 1.5/2.5/3.5
+$_['successful_deletion_request'] = 'Sėkminga užklausa!';
+$_['successful_deletion_request_helper'] = 'Jūsų užklausa buvo išsiųsta parduotuvės atsakingėms žmonėms. Jie peržiūrės šį sprendimą ir nuspręs, ar jį patvirtinti, ar atmesti. Čia pateikiami galimi rezultatai:<br /><br />- Jeigu bus patvirtintas prašymas ištrinti jūsų duomenis, jūs būsite informuotas kokie veiksmai bus atlikti ištrinant jūsų duomenis.<br />- Jeigu prašymas bus atmestas, gausite žinutę su paaiškinimo kodėl priimtas toks sprendimas.';
+$_['text_right_to_be_forgotten_request'] = 'Teisė būti užmirštam prašymas';
+$_['text_greeting_rtb'] = 'Klientas %s% nori ištrinti savo duomenis iš parduotuvės. Parduotuvės administravimo zonoje patvirtinkite arba atšaukite kliento prašymą.';
+$_['successful_deletion_request_helper_automatically'] = 'Jūsų užklausa buvo išsiųsta parduotuvės atsakingėms žmonėms ir ji buvo automatiškai patvirtinta. Dabar visi jūsų duomenys yra pašalinti iš parduotuvės.<br /><br />Apgaileistaujame, kad taip atsitiko :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Užsiprenumeravo';
+$_['text_unsubscribed'] = 'Atsisakė prenumeratos';

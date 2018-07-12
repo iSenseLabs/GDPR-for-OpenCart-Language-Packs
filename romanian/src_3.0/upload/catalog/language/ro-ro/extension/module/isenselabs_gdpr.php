@@ -80,3 +80,32 @@ $_['text_confirm_the_action'] = 'Este necesara confirmarea clientului';
 $_['text_confirm_the_action_helper'] = '<strong>ACTIUNEA ESTE IREVERSIBILA!</strong> Daca vei confirma actiunea, contul tau va fi sters si autentificarea nu va mai fi posibila. Nu va mai fi posibila accesarea istoricului comenzilor, adreselor, etc. Te rugam sa iei decizia mai jos:';
 $_['text_button_confirm_deletion'] = 'DA, sterge toate datele mele personale';
 $_['text_button_cancel_deletion'] = 'NU, lasati datele personale intacte';
+
+
+// GDPR Compliance 1.1/2.1./3.1
+$_['text_order'] = 'Comenzi';
+$_['text_personal_data'] = 'Date personale musafir';
+$_['text_personal_data_helper'] = 'Daca clientul nu este inregistrat pot exista date pentur aceasta adresa de mail in baza noastra de date.If the customer is not registered, there still may be some data for this particular email in our database. Veti vedea aici ce informatii am putut prelua.';
+$_['text_payment_view_data'] = 'Informatii plata';
+$_['text_shipping_view_data'] = 'Informatii livrare';
+$_['text_order_view_data'] = 'Informatii comanda';
+$_['text_user_agent'] = 'User Agent';
+$_['text_accept_language'] = 'Accept limba';
+
+// GDPR Compliance 1.2/2.2./3.2
+$_['text_cookie_settings_header'] = 'Alege ce tip de cookie accepti';
+$_['text_btn_close'] = 'Inchide';
+$_['text_btn_save'] = 'Salveaza modificari';
+$_['text_general_cookies'] = 'Cookie-uri absolut necesare';
+$_['text_general_cookies_helper'] = 'Aceste cookie-uri(moneda, limba, sesiunea de autentificare, preferintele de confidentialitate) sunt absolut necesare pentru ca website-ul sa functioneze normal si nu pot fi oprite. .Puteti seta ca browser-ul sa blocheze aceste cookie-uri insa website-ul nu va mai functiona corect.';
+$_['text_general_analytics'] = 'Analiza si statistici';
+$_['text_general_analytics_helper'] = 'Aceste cookie-uri ne permit sa masuram traficul vizitatorilor si sa vedem sursele de trafic prin colectarea de informatii in seturi de date. De asemenea, ne ajuta sa intelegem ce produse si actiuni sunt mai populare decat altele.';
+$_['text_general_marketing'] = 'Marketing si Retargeting';
+$_['text_general_marketing_helper'] = 'TAceste cookie-uri sunt de obicei stabilite de partenerii nostri de marketing si de publicitate. Acestia pot fi utilizati pentru a va crea un profil de interes si pentru a va afisa ulterior anunturi relevante. Dacă nu permiteti acest cookie, nu veti avea anunturi directionate pentru interesele dvs.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'Unelte mele GDPR';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'Am citit si sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'Trebuie sa fiti de acord cu %s pentru a continua.';
