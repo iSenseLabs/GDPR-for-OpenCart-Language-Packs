@@ -227,17 +227,17 @@ $_['text_customer_data'] = 'Customer Data';
 $_['text_customer_data_helper'] = 'This is the customer profile information - First name, last name, email address, phone number, etc. The customer will still be present in the database (for statistical purposes and reports), however, their personal data will be anonymized.';
 $_['text_address_data'] = 'Saved Addresses';
 $_['text_address_data_helper'] = 'All the saved addresses for the customer. Includes names, address, country, city, postcode, and zone. All data here will be anonymized.';
-$_['text_order_data'] = 'Orders';
-$_['text_order_data_helper'] = 'Customer orders will still be available in the database. However, the customer\'s personal data will be anonymized.';
-$_['text_gdpr_data'] = 'GDPR Data';
-$_['text_gdpr_data_helper'] = 'All GDPR requests made by the current customer will be deleted.';
-$_['text_select_data_deletion'] = 'Select the type of information you want deleted/anonymized.';
-$_['text_irreversible_action'] = 'Warning: This action is irreversible and the data cannot be returned.';
-$_['text_deletion_date'] = 'Choose the deletion date for the customer\'s data.';
-$_['text_column_deletion_date'] = 'Deletion Date';
-$_['text_pending_status'] = 'Pending';
-$_['text_cancelled_status'] = 'Cancelled';
-$_['text_deleted_status'] = 'Deleted/Anonymized';
+$_['text_order_data'] = 'Orders';	
+$_['text_order_data_helper'] = 'Customer orders will still be available in the database. However, the customer\'s personal data will be anonymized.';	
+$_['text_gdpr_data'] = 'GDPR Data';	
+$_['text_gdpr_data_helper'] = 'All GDPR requests made by the current customer will be deleted.';	
+$_['text_select_data_deletion'] = 'Select the type of information you want deleted/anonymized.';	
+$_['text_irreversible_action'] = 'Warning: This action is irreversible and the data cannot be returned.';	
+$_['text_deletion_date'] = 'Choose the deletion date for the customer\'s data.';	
+$_['text_column_deletion_date'] = 'Deletion Date';	
+$_['text_pending_status'] = 'Pending';	
+$_['text_cancelled_status'] = 'Cancelled';	
+$_['text_deleted_status'] = 'Deleted/Anonymized';	
 $_['text_awaiting_deletion_status'] = 'Awaiting Deletion';
 $_['text_notify_customer'] = 'Notify Customer';
 $_['text_cancel'] = 'Cancel';
@@ -293,3 +293,11 @@ $_['text_column_policy_id'] = 'Policy ID';
 
 // GDPR 1.7/2.7/3.7
 $_['text_stores'] = 'Stores';
+
+// GDPR 1.8/2.8/3.8
+$_['text_newsletter_double_optin'] = 'Enable Newsletter Double Opt-in';
+$_['text_newsletter_double_optin_helper'] = 'Use this feature if you want the customers to confirm their newsletter opt-in by a confirmation link in an email message.';
+$_['text_cc_pp_default_page'] = 'Default OpenCart Setting';
+$_['text_cc_pp_page'] = 'Choose a Specific Page for the Policy Link';
+$_['text_cc_pp_page_helper'] = 'Use this feature if you want a specific page to be set to the cookie consent bar. If you do not choose one, the selection from <em>Settings -> Edit -> Option -> Account -> Account Terms</em> will be used.';
+$_['text_filter_double_optin'] = 'Double Opt-In';
