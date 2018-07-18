@@ -293,3 +293,11 @@ $_['text_column_policy_id'] = 'Policy ID';
 
 // GDPR 1.7/2.7/3.7
 $_['text_stores'] = 'Winkels';
+
+// GDPR 1.8/2.8/3.8
+$_['text_newsletter_double_optin'] = 'Schakel dubbele Opt-in in';
+$_['text_newsletter_double_optin_helper'] = 'Gebruik deze optie als u wil dat uw klanten hun aanmelding voor de nieuwsbrief bevestigen via een link in een e-mail bericht.';
+$_['text_cc_pp_default_page'] = 'Standaard OpenCart instelling';
+$_['text_cc_pp_page'] = 'Kies een specifieke pagina voor de Policy link';
+$_['text_cc_pp_page_helper'] = 'Gebruik deze optie als u een specifieke pagina wil instellen in de cookie toestemmingsbalk. Als u geen keuze maakt zal de selectie van <em>Instellingen -> Wijzigen -> Opties -> Account -> Account Voorwaarden</em> gebruikt worden.';
+$_['text_filter_double_optin'] = 'Dubbele Opt-In';

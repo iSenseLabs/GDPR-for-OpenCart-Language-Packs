@@ -121,3 +121,12 @@ $_['successful_deletion_request_helper_automatically'] = 'Uw aanvraag is naar de
 // GDPR Compliance 1.5.1/2.5.1/3.5.1
 $_['text_subscribed'] = 'Ingeschreven';
 $_['text_unsubscribed'] = 'Uitgeschreven';
+
+// GDPR Compliance 1.8/2.8/3.8
+$_['text_button_confirm_subscription'] = 'Bevestig inschrijving';
+$_['text_confirm_subscription_subject'] = 'Bevestig aanmelding nieuwsbrief';
+$_['text_confirm_subscription'] = 'Hallo! Bevestig uw aanmelding voor onze nieuwsbrief, zodat we kunnen starten met het sturen van nieuwsbrieven via e-mail:';
+$_['text_newsletter_subscription_success'] = 'Uw aanmelding voor onze nieuwsbrief is succesvol aangepast!';
+$_['text_newsletter_subscription_success_message'] = 'Uw aanmelding is met succes aangepast! U aangemeld bij onze winkel.';
+$_['text_thank_you'] = 'Dank u!';
+$_['text_succes_message_after_edit_newsletter'] = 'Dank voor uw selectie. U zult snel een e-mail ontvangen in uw mailbox waarmee u uw selectie kunt bevestigen.';
