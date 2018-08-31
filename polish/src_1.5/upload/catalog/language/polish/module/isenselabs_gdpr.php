@@ -89,3 +89,30 @@ $_['text_general_analytics'] = 'Analityka i statystyki';
 $_['text_general_analytics_helper'] = 'Te pliki cookie pozwalają nam mierzyć ruch odwiedzających i wyświetlać źródła ruchu, zbierając informacje w zestawach danych. Pomagają nam również zrozumieć, które produkty i działania są bardziej popularne niż inne.';
 $_['text_general_marketing'] = 'Marketing i Retargeting';
 $_['text_general_marketing_helper'] = 'Te pliki cookie są zwykle ustawiane przez naszych partnerów marketingowych i reklamowych. Mogą być przez nich wykorzystywane do budowania profilu zainteresowania, a następnie wyświetlać trafne reklamy. Jeśli nie zezwolisz na te pliki cookie, nie będziesz mieć do czynienia z reklamami ukierunkowanymi na Twoje zainteresowania.';
+
+// GDPR Compliance 1.2.1/2.2.1/3.2.1
+$_['text_my_gdpr_tools_header'] = 'Moje narzędzia GDPR';
+
+// GDPR Compliance 1.4/2.4/3.4
+$_['text_optin_checkbox'] = 'Przeczytałem i zgadzam się na <a href="%s" class="agree"><b>%s</b></a>';
+$_['text_optin_error'] = 'Musisz zgodzić się na %s aby kontynuować.';
+
+// GDPR Compliance 1.5/2.5/3.5
+$_['successful_deletion_request'] = 'Pomyślne żądanie!';
+$_['successful_deletion_request_helper'] = 'Twoja prośba została wysłana do właścicieli sklepu. Przejrzą go i zdecydują, czy go uszanować, czy go zaprzeczyć. Oto możliwe wyniki:<br /><br />- Jeśli zdecydują się uszanować twoją prośbę, otrzymasz powiadomienie, jakie działania zostaną podjęte w celu usunięcia twoich danych ze sklepu.<br />- Jeśli twoja prośba zostanie odrzucona, otrzymasz e-mail z wyjaśnieniem, jakie były powody tej decyzji.';
+$_['text_right_to_be_forgotten_request'] = 'Prawo do bycia zapomnianym';
+$_['text_greeting_rtb'] = 'Klient %s% chce usunąć swoje dane ze swojego sklepu. Otwórz panel administratora swojego sklepu, aby uszanować lub odrzucić prośbę.';
+$_['successful_deletion_request_helper_automatically'] = 'Twoja prośba została wysłana do właścicieli sklepów i została ona automatycznie zatwierdzona. Wszystkie Twoje dane zostaną teraz usunięte ze sklepu.<br /><br />Przykro nam, że odchodzisz :(';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Subskrybujesz';
+$_['text_unsubscribed'] = 'Anulowano subskrypcję';
+
+// GDPR Compliance 1.8/2.8/3.8
+$_['text_button_confirm_subscription'] = 'Potwierdź subskrybcję';
+$_['text_confirm_subscription_subject'] = 'Potwierdź subskrypcję newslettera';
+$_['text_confirm_subscription'] = 'Cześć! Potwierdź subskrypcję biuletynu, abyśmy mogli zacząć wysyłać do Ciebie e-maile z biuletynami, w których znajdziesz wiele interesujących rzeczy:';
+$_['text_newsletter_subscription_success'] = 'Twoja subskrypcja biuletynu została pomyślnie zaktualizowana!';
+$_['text_newsletter_subscription_success_message'] = 'Twoja subskrypcja została pomyślnie zaktualizowana! Jesteś teraz zapisany do naszego sklepu.';
+$_['text_thank_you'] = 'Dziękuję Ci!';
+$_['text_succes_message_after_edit_newsletter'] = 'Dziękuję za twój wybór. Wkrótce otrzymasz wiadomość w skrzynce odbiorczej poczty e-mail, którą musisz otworzyć, aby potwierdzić swój wybór.';
