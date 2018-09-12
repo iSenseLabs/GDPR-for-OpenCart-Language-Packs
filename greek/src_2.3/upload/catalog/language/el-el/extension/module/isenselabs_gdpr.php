@@ -119,3 +119,12 @@ $_['successful_deletion_request_helper_automatically'] = 'Το αίτημά σα
 // Συμμόρφωση GDPR 1.5.1/2.5.1/3.5.1
 $_['text_subscribed'] = 'Εγγραφή';
 $_['text_unsubscribed'] = 'Κατάργηση εγγραφής';
+
+// Συμμόρφωση GDPR 1.8/2.8/3.8
+$_['text_button_confirm_subscription'] = 'Επιβεβαίωση Εγγραφής';
+$_['text_confirm_subscription_subject'] = 'Επιβεβαίωση Εγγραφής Newsletter';
+$_['text_confirm_subscription'] = 'Γειά σας! Επιβεβαιώστε την εγγραφή σας στο newsletter, ώστε να μπορέσουμε να σας στείλουμε τα ενημερωτικά μηνύματα ηλεκτρονικού ταχυδρομείου, όπου μπορείτε να βρείτε πολλά ενδιαφέροντα πράγματα:';
+$_['text_newsletter_subscription_success'] = 'Η εγγραφή σας στο newsletter ενημερώθηκε με επιτυχία!';
+$_['text_newsletter_subscription_success_message'] = 'Η συνδρομή σας έχει ενημερωθεί με επιτυχία! Τώρα είστε εγγεγραμμένοι στο ηλεκτρονικό μας κατάστημα.';
+$_['text_thank_you'] = 'Σας ευχαριστούμε!';
+$_['text_succes_message_after_edit_newsletter'] = 'Σας ευχαριστούμε για την επιλογή σας. Σύντομα θα λάβετε ένα μήνυμα στα εισερχόμενά σας, το οποίο πρέπει να ανοίξετε για να επιβεβαιώσετε την επιλογή σας.';
