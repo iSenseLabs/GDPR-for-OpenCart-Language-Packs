@@ -109,3 +109,23 @@ $_['text_my_gdpr_tools_header'] = 'Unelte mele GDPR';
 // GDPR Compliance 1.4/2.4/3.4
 $_['text_optin_checkbox'] = 'Am citit si sunt de acord cu <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_optin_error'] = 'Trebuie sa fiti de acord cu %s pentru a continua.';
+
+// GDPR Compliance 1.5/2.5/3.5
+$_['successful_deletion_request'] = 'Solicitare cu succes!';
+$_['successful_deletion_request_helper'] = 'Solicitarea dvs. a fost trimisă administratorilor de cont. Ei o vor revizui și vor decide dacă o vor onora sau o vor nega. Iată rezultatele posibile:<br /><br />- Dacă aceștia decid să vă onoreze solicitarea, veți fi anunțat ce acțiuni vor fi necesare pentru a vă elimina datele din magazin.<br />- Dacă cererea dvs. este respinsă, veți primi un e-mail care explică motivele acestei decizii.';
+$_['text_right_to_be_forgotten_request'] = 'Dreptul de a fi uitat';
+$_['text_greeting_rtb'] = 'Clientul %s% doreste stergerea datelor din magazinul tau. deschide admin panel pentru a onora cererea.';
+$_['successful_deletion_request_helper_automatically'] = ' Solicitare Dvs. a fost trimis la administratori si a fost acceptat instant. Toate datele Dvs. au fost sterse. <br /><br />Ne pare rau pentru ca ne despartim ';
+
+// GDPR Compliance 1.5.1/2.5.1/3.5.1
+$_['text_subscribed'] = 'Abonat';
+$_['text_unsubscribed'] = 'Dezabonat';
+
+// GDPR Compliance 1.8/2.8/3.8
+$_['text_button_confirm_subscription'] = 'Accept abonare.';
+$_['text_confirm_subscription_subject'] = 'Accept abonare.';
+$_['text_confirm_subscription'] = 'Buna ziua!  Vă rugăm să vă confirmați abonarea la newsletter-ul dvs., astfel încât să putem începe să vă trimitem e-mailurile noastre cu stiri si noutati, unde puteți găsi o mulțime de lucruri interesante:';
+$_['text_newsletter_subscription_success'] = 'Abonarea dvs. la newsletter a fost actualizat cu succes!';
+$_['text_newsletter_subscription_success_message'] = 'Abonarea dvs. la newsletter a fost actualizat cu succes! ';
+$_['text_thank_you'] = 'Va multumim!';
+$_['text_succes_message_after_edit_newsletter'] = 'Vă mulțumim pentru alegera Dvs. În curând veți primi un mesaj în căsuța poștală de e-mail, pe care trebuie să o deschideți pentru a confirma abonarea.';
