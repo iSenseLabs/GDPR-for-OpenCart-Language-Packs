@@ -101,3 +101,30 @@ $_['text_general_analytics'] = 'Analíticas y Estadísticas';
 $_['text_general_analytics_helper'] = 'Estas cookies nos permiten medir el tráfico de visitantes y ver las fuentes de tráfico al recolectar información en conjunto de datos. También nos ayudan a entender qué productos y acciones son más populares que otros.';
 $_['text_general_marketing'] = 'Marketing y Retargeting';
 $_['text_general_marketing_helper'] = 'Estas cookies son usualmente configuradas por nuestros socios de marketing y publicidad. Pueden ser usadas por ellos para construir un perfil de tus intereses y luego, mostrarte anuncios relevantes. Si no permites el uso de estas cookies, no experimentarás anuncios dirigidos a tus intereses.';
+
+// GDPR Compliance 1.2.1 / 2.2.1 / 3.2.1
+$_['text_my_gdpr_tools_header'] = 'Herramientas RGPD';
+
+// GDPR Compliance 1.4 / 2.4 / 3.4
+$_['text_optin_checkbox'] = 'He leído y acepto el <a href="%s" class="agree"> <b>% s </b> </a>';
+$_['text_optin_error'] = 'Debe aceptar el% s para poder continuar.';
+
+// GDPR Compliance 1.5 / 2.5 / 3.5
+$_['successful_deletion_request'] = 'Su solicitud ha sido procesada';
+$_['successful_deletion_request_helper'] = 'Su solicitud fue enviada a los administradores del sitio web. Su caso será revisado y luego de confirmar la veracidad de su solicitud recibirá una notificación para notificar qué acciones se tomarán para eliminar sus datos del sistema ';
+$_['text_right_to_be_forgotten_request'] = 'Solicitud de derecho a ser olvidado';
+$_['text_greeting_rtb'] = 'El cliente% s% quiere que se eliminen sus datos de su tienda. Abra el panel de administración de su tienda para cumplir o rechazar la solicitud. ';
+$_['successful_deletion_request_helper_automatically'] = 'Su solicitud se envió a los propietarios de la tienda y se aprobó automáticamente. Todos los datos se eliminaron de la tienda. <br /> <br /> Lamentamos que te vayas :( ';
+
+// GDPR Compliance 1.5.1 / 2.5.1 / 3.5.1
+$_['text_subscribed'] = 'Subscribir';
+$_['text_unsubscribed'] = 'Darse de baja';
+
+// GDPR Compliance 1.8 / 2.8 / 3.8
+$_['text_button_confirm_subscription'] = 'Confirmar suscripción';
+$_['text_confirm_subscription_subject'] = 'Confirmar suscripción de boletín informativo';
+$_['text_confirm_subscription'] = '¡Hola! Por favor, confirme su suscripción al boletín de noticias, para que podamos comenzar a enviarle los correos electrónicos de nuestro boletín, donde puede encontrar muchas cosas interesantes:';
+$_['text_newsletter_subscription_success'] = '¡Su suscripción al boletín se ha actualizado con éxito!';
+$_['text_newsletter_subscription_success_message'] = '¡Su suscripción se ha actualizado exitosamente! Ahora estás suscrito a nuestra tienda. ';
+$_['text_thank_you'] = '¡Gracias!';
+$_['text_succes_message_after_edit_newsletter'] = 'Gracias por su selección. Pronto recibirá un mensaje en su bandeja de entrada de correo electrónico, que debe abrir para confirmar su selección. ';
