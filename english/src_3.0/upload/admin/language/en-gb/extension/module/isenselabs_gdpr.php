@@ -301,3 +301,6 @@ $_['text_cc_pp_default_page'] = 'Default OpenCart Setting';
 $_['text_cc_pp_page'] = 'Choose a Specific Page for the Policy Link';
 $_['text_cc_pp_page_helper'] = 'Use this feature if you want a specific page to be set to the cookie consent bar. If you do not choose one, the selection from <em>Settings -> Edit -> Option -> Account -> Account Terms</em> will be used.';
 $_['text_filter_double_optin'] = 'Double Opt-In';
+
+// GDPR 1.9.1/2.9.1/3.9.1
+$_['text_cc_transparency'] = 'Opacity';
