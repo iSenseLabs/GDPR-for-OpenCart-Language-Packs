@@ -119,3 +119,12 @@ $_['successful_deletion_request_helper_automatically'] = 'Your request was sent 
 // GDPR Compliance 1.5.1/2.5.1/3.5.1
 $_['text_subscribed'] = 'Subscribed';
 $_['text_unsubscribed'] = 'Unsubscribed';
+
+// GDPR Compliance 1.8/2.8/3.8
+$_['text_button_confirm_subscription'] = 'Confirm Subscription';
+$_['text_confirm_subscription_subject'] = 'Confirm Newsletter Subscription';
+$_['text_confirm_subscription'] = 'Hello there! Please confirm your newsletter subscription, so we can start sending you our newsletter emails, where you can find a lot of interesting stuff:';
+$_['text_newsletter_subscription_success'] = 'Your newsletter subscription has been updated successfully!';
+$_['text_newsletter_subscription_success_message'] = 'Your subscription has been updated successfully! You are now subscribed to our store.';
+$_['text_thank_you'] = 'Thank you!';
+$_['text_succes_message_after_edit_newsletter'] = 'Thank you for your selection. Soon you will receve a message in your email inbox, which you have to open in order to confirm your selection.';

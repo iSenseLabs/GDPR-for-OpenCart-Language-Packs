@@ -190,3 +190,112 @@ $_['text_cc_stop_nothing'] = 'Nic nie rób';
 $_['text_cc_stop_marketing'] = 'Zatrzymaj marketingowe pliki cookie';
 $_['text_cc_stop_analytics'] = 'Zatrzymaj analytics cookies';
 $_['text_cc_stop_both'] = 'Zatrzymaj ciasteczka marketingowe i analityczne';
+// GDPR 1.3/2.3/3.3
+$_['text_gdpr_seo_link'] = 'SEO Link';
+$_['text_gdpr_seo_link_helper'] = 'Użyj tej funkcji, aby dodać URL SEO do strony z narzędziami GDPR. Uwaga: Twoja"<em>Posługiwać się SEO URLs</em>"należy włączyć.<br /><br />Wprowadź kod, który zastąpi domyślny adres URL.';
+$_['text_cc_cookie_button'] = 'Ujawnij tekst paska przycisków cookie';
+$_['text_cc_cookie_button_helper'] = 'Wprowadź tekst do wyświetlenia na małym przycisku cookie, który pokazuje cały pasek zgody na pliki cookie.';
+$_['text_cc_always_show'] = 'Pokaż przycisk, aby wyświetlić pasek zgody na pliki cookie';
+$_['text_cc_always_show_helper'] = 'Dodaje mały przycisk u góry lub u dołu strony (w zależności od położenia paska cookie), który pokazuje cały pasek w przypadku, gdy użytkownicy go zamykają, ale chcą zmienić swoje preferencje dotyczące plików cookie.';
+
+// GDPR 1.4/2.4/3.4
+$_['text_gdpr_cc_styles'] = 'Zwyczaj CSS Stylizacja';
+$_['text_gdpr_cc_styles_helper'] = 'Zastosuj style niestandardowe do paska zgody na pliki cookie.';
+$_['text_cc_default_action'] = 'Początkowy stan paska zgody na plik cookie';
+$_['text_cc_default_action_helper'] = 'Wybierz domyślny stan paska zgody na pliki cookie (gdy odwiedzający otworzył Twoją witrynę i nie korzystał z paska).';
+$_['text_optins'] = 'Opt-in Ustawienia';
+$_['text_contact_form_optin_link'] = 'Włącz formularz kontaktowyOpt-in';
+$_['text_contact_form_optin_link_helper'] = 'Użyj tej funkcji, jeśli chcesz, aby klienci zaakceptowali Politykę prywatności za pomocą formularza kontaktowego.';
+$_['tab_optins'] = 'Opt-in/Opt-out';
+$_['column_optin_id'] = 'Opt-in ID';
+$_['column_action'] = 'Akcja';
+
+// GDPR 1.4.1/2.4.1/3.4.1
+$_['text_contact_form_newsletter_link'] = 'Włącz Newsletter Opt-in';
+$_['text_contact_form_newsletter_link_helper'] = 'Użyj tej funkcji, jeśli chcesz śledzić opcje rezygnacji i rezygnację z biuletynu.';
+$_['text_filter_optin'] = 'Opt-In';
+$_['text_filter_optout'] = 'Opt-Out';
+$_['text_filter_acceptance'] = 'Przyjęcie';
+$_['text_filter_custom'] = 'Zwyczaj';
+$_['text_filter_all'] = 'Wszystko';
+
+// GDPR 1.5/2.5/3.5
+$_['tab_deletion_requests'] = 'Żądania usunięcia';
+$_['text_customer_data'] = 'Dane klienta';
+$_['text_customer_data_helper'] = 'Jest to informacja o profilu klienta - imię, nazwisko, adres e-mail, numer telefonu itp. Klient będzie nadal obecny w bazie danych (do celów statystycznych i raportów), jednak ich dane osobowe będą anonimowe.';
+$_['text_address_data'] = 'Zapisane adresy';
+$_['text_address_data_helper'] = 'Wszystkie zapisane adresy dla klienta. Obejmuje imiona i nazwiska, adres, kraj, miasto, kod pocztowy i strefę. Wszystkie dane tutaj będą anonimizowane.';
+$_['text_order_data'] = 'Święcenia';
+$_['text_order_data_helper'] = 'Zamówienia klientów będą nadal dostępne w bazie danych. Jednak dane osobowe klienta będą anonimizowane.';
+$_['text_gdpr_data'] = 'GDPR Dane';
+$_['text_gdpr_data_helper'] = 'Wszystkie żądania GDPR wykonane przez obecnego klienta zostaną usunięte.';
+$_['text_select_data_deletion'] = 'Wybierz rodzaj informacji, które chcesz usunąć / anonimizować.';
+$_['text_irreversible_action'] = 'Ostrzeżenie: ta czynność jest nieodwracalna i dane nie mogą zostać zwrócone.';
+$_['text_deletion_date'] = 'Wybierz datę usunięcia danych klienta.';
+$_['text_column_deletion_date'] = 'Data usunięcia';
+$_['text_pending_status'] = 'W oczekiwaniu';
+$_['text_cancelled_status'] = 'Anulowany';
+$_['text_deleted_status'] = 'Usunięte / Anonimizowane';
+$_['text_awaiting_deletion_status'] = 'Oczekiwanie na usunięcie';
+$_['text_notify_customer'] = 'Powiadom klienta';
+$_['text_cancel'] = 'Anuluj';
+$_['text_confirm'] = 'Potwierdzać';
+$_['text_confim_window_heading'] = 'Potwierdź swój wybór';
+$_['text_confirm_text'] = 'Jesteś pewien, że chcesz kontynuować?';
+$_['text_irreversible_action'] = 'Pamiętaj, że to działanie jest ostateczne i nieodwracalne!';
+$_['text_message'] = 'Wiadomość';
+$_['text_pending_deletion'] = 'Oczekuje na usunięcie';
+$_['text_awaiting_action'] = 'Oczekuje na działanie';
+$_['text_cancel_deletion'] = 'Odmów prośby';
+$_['text_approve_deletion'] = 'Zatwierdź prośbę';
+$_['text_process_deletion'] = 'Usunąć dane';
+$_['text_cancel_deletion_header'] = 'Odmów prośbę "Prawo do bycia zapomnianym"';
+$_['text_deletion_deny_helper'] = 'Za chwilę odmówisz usunięcia żądania następującego e-maila:';
+$_['text_go_back'] = 'Wróć';
+$_['text_date_time_request'] = 'Żądaj daty / czasu';
+$_['text_language_request'] = 'Poproś o język';
+$_['text_store_request'] = 'Zażądaj sklepu';
+$_['text_email_request'] = 'Poproś o e-mail';
+$_['text_unexpected_error'] = 'Niespodziewany błąd! Skontaktuj się z programistami modułu, otwierając zgłoszenie do pomocy technicznej <a href="https://isenselabs.com/tickets/open" target="_blank">tutaj</a>.';
+$_['text_data_deletion_helper'] = 'Aby to zrobić, musisz podać powód, który również zostanie przesłany pocztą e-mail do klienta. Wypełnij poniższe pole:';
+$_['text_data_deletion_warning'] = 'Upewnij się, że podałeś przyczynę w oknie komunikatu. To jest pole wymagane, a przyczyna zostanie wysłana do klienta.';
+$_['text_data_deletion_date_warning'] = 'Pamiętaj, aby wybrać datę usunięcia. Jest to pole wymagane, a klient zostanie powiadomiony, gdy jego dane zostaną usunięte.';
+$_['text_deny_deletion_success'] = 'Odmówiłeś prośby o "Prawo do bycia zapomnianym". Poczekaj, aż strona zostanie ponownie załadowana...';
+$_['text_deny_deletion_subject'] = 'Twoje żądanie GDPR zostało odrzucone.';
+$_['text_deny_gdpr_request_main'] = 'Cześć %s%. Otrzymujesz to w związku z Twoim żądaniem GDPR.';
+$_['text_deny_message'] = 'Z przykrością informujemy, że twoja prośba o usunięcie danych została odrzucona. Dowiedz się, dlaczego:';
+$_['text_approve_deletion_header'] = 'Zatwierdź prośbę "Prawo do bycia zapomnianym"';
+$_['text_deletion_approve_helper'] = 'Za chwilę zaakceptujesz prośbę "Prawo do bycia zapomnianym" dla następującego e-maila:';
+$_['text_approve_deletion'] = 'Zatwierdź prośbę';
+$_['text_data_approve_deletion_helper'] = 'Wypełnij poniższy formularz:';
+$_['text_custom_message'] = 'Niestandardowa wiadomość';
+$_['text_custom_message_helper'] = 'Napisz niestandardową wiadomość do klienta';
+$_['text_data_to_be_deleted'] = 'Dane do usunięcia / anonimizacji';
+$_['text_data_to_be_deleted_helper'] = 'Wybierz dane, które chcesz usunąć / anonimizować dla wybranego klienta';
+$_['text_successful_deletion_approval'] = 'Powodzenie! Klient jest teraz gotowy do usunięcia. Poczekaj, aż strona zostanie ponownie załadowana...';
+$_['text_approve_message'] = 'Ta wiadomość informuje Cię, że Twoja prośba "Prawo do bycia zapomnianym" została zatwierdzona. Zobacz typ danych, które zostaną usunięte z naszego sklepu:';
+$_['text_approve_gdpr_request_main'] = 'Cześć %s%. Otrzymujesz to w związku z Twoim żądaniem GDPR.';
+$_['text_approve_deletion_subject'] = 'Twoje żądanie GDPR zostało zatwierdzone';
+$_['text_right_to_be_forgotten_requests'] = 'Obsługa wniosków "Prawo do bycia zapomnianym"';
+$_['text_right_to_be_forgotten_requests_helper'] = 'Wybierz, w jaki sposób będą obsługiwane żądania usunięcia. Jeśli wybierzesz "Automatycznie", wszystkie dane zostaną usunięte, gdy klient wyśle żądanie GDPR. Jeśli wybierzesz "Ręcznie", zobaczysz nową kartę, zwaną "Żądaniami usunięcia", w której będziesz mieć pełną kontrolę nad żądaniami usunięcia i sposobem ich przetwarzania.';
+$_['text_automatically'] = 'Automatycznie';
+$_['text_manually'] = 'Ręcznie';
+$_['text_successful_removal'] = 'Powodzenie! Klient został pomyślnie usunięty / anonimizowany ze swojego sklepu. Poczekaj, aż strona zostanie ponownie załadowana...';
+$_['text_deletion_request_complete_subject'] = '"Prawo do bycia zapomnianym" jest kompletne';
+$_['text_deletion_success_message'] = 'Ta wiadomość ma na celu poinformowanie Cię, że Twoje żądanie usunięcia "danych do roszczenia" zostało zakończone.';
+
+// GDPR 1.6/2.6/3.6
+$_['text_btn_export'] = 'Eksport';
+$_['text_column_customer_id'] = 'Klient ID';
+$_['text_column_policy_id'] = 'Polityka ID';
+
+// GDPR 1.7/2.7/3.7
+$_['text_stores'] = 'Sklepy';
+
+// GDPR 1.8/2.8/3.8
+$_['text_newsletter_double_optin'] = 'Włącz biuletyn Double Opt-in';
+$_['text_newsletter_double_optin_helper'] = 'Użyj tej funkcji, jeśli chcesz, aby klienci potwierdzili swój wybór biuletynu za pomocą linku potwierdzającego w wiadomości e-mail.';
+$_['text_cc_pp_default_page'] = 'Domyślne ustawienie OpenCart';
+$_['text_cc_pp_page'] = 'Wybierz określoną stronę dla linku zasad';
+$_['text_cc_pp_page_helper'] = 'Użyj tej funkcji, jeśli chcesz, aby określona strona była ustawiona na pasku zgody na cookie. Jeśli go nie wybierzesz, wybór z <em>Ustawienia -> Edytuj -> Opcja -> Konto -> Warunki konta</em> będzie użyty.';
+$_['text_filter_double_optin'] = 'Double Opt-In';
