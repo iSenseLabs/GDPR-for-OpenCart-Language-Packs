@@ -281,6 +281,6 @@ $_['text_right_to_be_forgotten_requests'] = 'Traitement des demandes de "Droit d
 $_['text_right_to_be_forgotten_requests_helper'] = 'Choisissez comment les demandes de suppression seront traitées. Si vous sélectionnez "Automatiquement", toutes les données seront supprimées une fois que le client aura fait une demande GDPR. Si "Manuellement" est sélectionné, vous verrez un nouvel onglet, appelé "Demandes de suppression", où vous aurez un contrôle total sur les demandes de suppression et comment elles seront traitées.';
 $_['text_automatically'] = 'Automatiquement';
 $_['text_manually'] = 'Manuellement';
-$_['text_successful_removal'] = 'Succès! Le client a été supprimé/anonymisé avec succès de votre boutique en ligne. Veuillez patienter jusqu\'à ce que la page soit rechargée...';
+$_['text_successful_removal'] = 'Succès! Le client a été supprimé/anonymisé avec succès de votre boutique en ligne. Veuillez patienter jusqu\\\'à ce que la page soit rechargée...';
 $_['text_deletion_request_complete_subject'] = '"Droit d\'être oublié "est terminé';
 $_['text_deletion_success_message'] = 'Ce message est pour vous informer que votre demande "Droit d\'être oublié" pour la suppression des données est terminée.';
