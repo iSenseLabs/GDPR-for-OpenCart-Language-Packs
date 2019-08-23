@@ -72,7 +72,7 @@ $_['text_successful_data_deletion_helper'] = 'Merci pour votre soumission ! Si l
 
 $_['text_delete_data_subject'] = 'Demande de suppression de données personnelles';
 $_['text_button_delete_data'] = 'Effacer mes données personnelles';
-$_['text_greeting_delete'] = 'Bonjour ! Vous avez demandé à effacer vos données personnelles de notre magasin. Gardez à l\'esprit que ce processus supprimera votre compte, de sorte que vous ne pourrez plus y accéder ou l\'utiliser.<br /><br />Si ce n\'était pas vous, veuillez ignorer ce message. Sinon, cliquez sur le lien ci-dessous pour continuer :';
+$_['text_greeting_delete'] = 'Bonjour ! Vous avez demandé à effacer vos données personnelles de notre magasin. Gardez à l\'esprit que ce processus supprimera votre compte, de sorte que vous ne pourrez plus y accéder ou l\'utiliser.<br/><br/>Si ce n\'était pas vous, veuillez ignorer ce message. Sinon, cliquez sur le lien ci-dessous pour continuer :';
 
 $_['text_personal_data_deletion'] = 'Suppression des données personnelles';
 $_['text_hash_error_delete'] = 'L\'action ne peut pas être terminée. Le lien n\'est pas valide ou il a expiré. Si vous voulez prendre cette mesure, vous devez faire une autre demande de RGPD.';
@@ -111,10 +111,10 @@ $_['text_optin_error'] = 'Vous devez accepter les %s pour pouvoir continuer.';
 
 // GDPR Compliance 1.5/2.5/3.5
 $_['successful_deletion_request'] = 'Demande réussie!';
-$_['successful_deletion_request_helper'] = 'Votre demande a été envoyée aux propriétaires de la boutique en ligne. Ils vont l\'examiner et décidera de l\'honorer ou de le nier. Ce sont les résultats possibles:<br /><br />- S\'ils décident d\'honorer votre demande, vous serez informé des mesures qui seront prises pour retirer vos données de la boutique en ligne.<br />- Si votre demande est refusée, vous recevrez un courriel expliquant les raisons de cette décision.';
+$_['successful_deletion_request_helper'] = 'Votre demande a été envoyée aux propriétaires de la boutique en ligne. Ils vont l\'examiner et décidera de l\'honorer ou de le nier. Ce sont les résultats possibles:<br/><br/>- S\'ils décident d\'honorer votre demande, vous serez informé des mesures qui seront prises pour retirer vos données de la boutique en ligne.<br/>- Si votre demande est refusée, vous recevrez un courriel expliquant les raisons de cette décision.';
 $_['text_right_to_be_forgotten_request'] = 'Demande de "Droit d\'être oublié';
 $_['text_greeting_rtb'] = 'Le client veut que ses données soient supprimées de votre boutique en ligne. Ouvrez le panneau d\'administration de votre boutique pour honorer ou refuser la demande.';
-$_['successful_deletion_request_helper_automatically'] = 'Votre demande a été envoyée aux propriétaires du magasin et elle a été automatiquement approuvée. Toutes vos données sont maintenant retirées du magasin.<br /><br />Nous sommes désolés de vous voir partir :(';
+$_['successful_deletion_request_helper_automatically'] = 'Votre demande a été envoyée aux propriétaires du magasin et elle a été automatiquement approuvée. Toutes vos données sont maintenant retirées du magasin.<br/><br/>Nous sommes désolés de vous voir partir :(';
 
 // GDPR Compliance 1.5.1/2.5.1/3.5.1
 $_['text_subscribed'] = 'Abonné';
