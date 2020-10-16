@@ -128,3 +128,6 @@ $_['text_newsletter_subscription_success'] = 'Your newsletter subscription has b
 $_['text_newsletter_subscription_success_message'] = 'Your subscription has been updated successfully! You are now subscribed to our store.';
 $_['text_thank_you'] = 'Thank you!';
 $_['text_succes_message_after_edit_newsletter'] = 'Thank you for your selection. Soon you will receve a message in your email inbox, which you have to open in order to confirm your selection.';
+
+// GDPR 1.9.3/2.9.3/3.9.3
+$_['GDPR_captcha'] = 'The captcha was not correct, please try again.';
